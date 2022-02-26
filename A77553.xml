@@ -1,0 +1,1653 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The power of God overpowering the creature. Which power came upon me William Britten, the 3d. day of the 11th. month, (called February) 1659. not suffering me to depart my chamber, until I had promised the Lord to answer a book, which I had then never seen, and but once heard of; set forth by William Prynne in defence of tyths, &amp;c. and to present the answer in print unto the governing power of England for the time being. But making delayes, and Fran. Spira-like, consulting with flesh and blood, the Lord terrified me in conscience for neglect, yet in mercy did set me (like Jonah) the second time upon the same work.</title>
+            <author>Britten, William, d. 1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 89 KB of XML-encoded text transcribed from 26 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77553</idno>
+            <idno type="STC">Wing B4824A</idno>
+            <idno type="STC">ESTC R170818</idno>
+            <idno type="EEBO-CITATION">45578187</idno>
+            <idno type="OCLC">ocm 45578187</idno>
+            <idno type="VID">172142</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77553)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172142)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2615:37)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The power of God overpowering the creature. Which power came upon me William Britten, the 3d. day of the 11th. month, (called February) 1659. not suffering me to depart my chamber, until I had promised the Lord to answer a book, which I had then never seen, and but once heard of; set forth by William Prynne in defence of tyths, &amp;c. and to present the answer in print unto the governing power of England for the time being. But making delayes, and Fran. Spira-like, consulting with flesh and blood, the Lord terrified me in conscience for neglect, yet in mercy did set me (like Jonah) the second time upon the same work.</title>
+                  <author>Britten, William, d. 1669.</author>
+               </titleStmt>
+               <extent>46 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1660</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: tightly bound with some loss of print.</note>
+                  <note>Reproduction of original in the Friends' Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prynne, William, 1600-1669. --  Gospel plea (interwoven with a rational and legal) for the lawfulness &amp; continuance of the ancient settled maintenance and tenthes of the ministers of the Gospel. --  Part 2.</term>
+               <term>Tithes --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172142:1" rendition="simple:additions"/>
+            <p>THE Power of God, Overpowering the CREATURE.</p>
+            <p>Which <hi>Power</hi> came upon me <hi>William Britten,</hi> the 3d. day of the 11th. Month, (called <hi>February</hi>) 1659. not ſuffering me to de<g ref="char:EOLhyphen"/>part my Chamber, until I had promiſed the Lord to Anſwer a Book, which I had then never ſeen, and but once heard of; ſet forth by <hi>William Prynne</hi> in defence of Tyths, <hi>&amp;c.</hi> and to preſent the Anſwer in Print unto the Governing Power of <hi>England</hi> for the time being.</p>
+            <p>But making delayes, and <hi>Fran. Spira</hi>-like, conſult<g ref="char:EOLhyphen"/>ing with fleſh and blood, the Lord terrified me in Conſcience for neglect, yet in mercy did ſet me (like <hi>Jonah</hi>) the ſecond time upon the ſame work.</p>
+            <q>
+               <hi>
+                  <bibl>2 Chron. 34.14.</bibl> Hilkiah</hi> the Prieſt found a Book of the Law of the Lord. <hi>And verſ. 15. Hilkiah</hi> delivered the Book to <hi>Shaphan. And verſ. 18. Sha<g ref="char:EOLhyphen"/>phan</hi> read it before the King. <hi>And verſ. 30.</hi> He read in their ears all the words of the Book of the Covenant. <hi>And verſ. 32.</hi> The King cauſed all that were preſent in <hi>Jeruſalem</hi> and <hi>Benjamin</hi> to ſtand to it. <hi>And verſ. 33. Jo<g ref="char:EOLhyphen"/>ſiah</hi> took away all the Abominations out of all the Countries. <hi>And 2 Kings 23.25.</hi> Like unto him was there no King before him, that turned to the Lord with all his heart, <hi>&amp;c.</hi>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for the Author, 1660,</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:172142:2"/>
+            <pb n="5" facs="tcp:172142:2"/>
+            <head>THE Power of God Overpowering the CREATURE.</head>
+            <head type="sub">According to my engagement unto the Lord, who hath led me forth in this Work, I humbly preſent this <hi>Anſwer</hi> un<g ref="char:EOLhyphen"/>to the Governing Power of <hi>England,</hi> which I acknowledge to be <hi>King Charles</hi> II. with His <hi>Council</hi> and <hi>Par<g ref="char:EOLhyphen"/>liament.</hi>
+            </head>
+            <byline>William Britten.</byline>
+            <p>TO allow Goſpel Miniſters a Mainte<g ref="char:EOLhyphen"/>nance, the Scriptures are clear for it, but in what manner, and from whom the ſame ſhall ariſe, the Goſpel Law can beſt decide the Controverſie.</p>
+            <p>I ſhall not anſwer each Page of his Book, ſeeing there are ſo many Itterations and repeti<g ref="char:EOLhyphen"/>tions
+<pb n="6" facs="tcp:172142:3"/> of things, eſpecially in thoſe large diſcriptions of the <hi>Jewiſh</hi> Tyths, and <hi>Levittical</hi> Prieſthood, where<g ref="char:EOLhyphen"/>in he ſtrives to model a Maintenance from thence to Goſpel Miniſters; but is to us as if he had pleaded for Circumciſion to our <hi>Gentile</hi> Churches.</p>
+            <p>His Book hath two Parts, I begin with the for<g ref="char:EOLhyphen"/>mer, and ſo paſs through both; firſt viewing thoſe Scriptures he makes uſe of, to ſee if any ſuch thing as Tyths or a ſettled Maintenance for Miniſters of the Goſpel be found in holy Writ, to be either practiſed or named amongſt Diſciples, or Believers in the pri<g ref="char:EOLhyphen"/>mitive times, when the Scriptures were written, &amp; peo<g ref="char:EOLhyphen"/>ple became Chriſtians, which ought to be our guide and rule to follow.</p>
+            <p>At his 4th. page he begins with Scripture, as <hi>Matt:</hi> 10.5. &amp;c. <hi>Luke</hi> 10.1. &amp;c. how our Saviour autho<g ref="char:EOLhyphen"/>riſed and ſent forth the 12. and the 70. Diſciples to preach the Goſpel, &amp;c. by which Commiſſion, they were not to carry any proviſion for their journey, for <hi>the workman is worthy of his meat.</hi>
+               <note place="margin">
+                  <hi>Verſ.</hi> 10.</note>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Nor were they to receive Tyths or other ſet<g ref="char:EOLhyphen"/>led Maintenance; nor bargain aforehand what reward ſhould be for their pains; neither had they any hu<g ref="char:EOLhyphen"/>mane power to enforce ſupplies whilſt they were upon that work; nor to puniſh any in body or eſtate that re<g ref="char:EOLhyphen"/>fuſed to give unto them where they came to preach; God never taught his Meſſengers to perſecute any for unkindneſs in theſe ſpiritual works,<note place="margin">
+                  <hi>Mat.</hi> 10.14 <hi>Acts</hi> 13.51.</note> but if they will not receive them, the duſt of their feet muſt be a teſtimo<g ref="char:EOLhyphen"/>ny againſt ſuch: yet theſe Teachers muſt go forth, and truſt to their Maſter for their reward, from whoſe Spi<g ref="char:EOLhyphen"/>rit they had <hi>freely received,</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 10.8.</note> and were to <hi>give freely,</hi> (not ſell it) and they which did partake of their ſpiri<g ref="char:EOLhyphen"/>tual work in hearing, were likewiſe led by the ſame ſpirit to impart unto the Teachers for corporal ſup<g ref="char:EOLhyphen"/>plies.</p>
+            <pb n="7" facs="tcp:172142:3"/>
+            <p>In page 5. he uſeth <hi>John</hi> 4.36. &amp;c. how he that <hi>reap<g ref="char:EOLhyphen"/>eth receiveth wages,— ſo both rejoyce together,</hi> &amp;c,</p>
+            <p>
+               <hi>Anſw.</hi> This joy is not only of this life, but alſo that everlaſting joy wherein God will reward his faithful ones: but here note three things; firſt, the Reaper muſt be a Workman of the Maſters appoint<g ref="char:EOLhyphen"/>ment. Secondly, the ſame Maſter muſt pay him, and not a ſtranger. Thirdly, his wages muſt be according to his Lords contract; all which the Parable makes plain, and how they received every man a <hi>Penny</hi> from their Maſter, &amp;c. So Goſpel Miniſters muſt be called of God to that Work,<note place="margin">
+                  <hi>Mat.</hi> 20.1, &amp;c.</note> going forth freely with the Gift in Teaching, and his promiſe is, that <hi>good meaſure</hi> ſhall be <hi>returned them again,</hi> Luke 6.38. But thoſe that dare not go forth to preach untill their bargain is made, or aſſurance aforehand by a humane Law, to compel a Reward for their Labour, ſhew plainly they dare not rely upon God for a Maintenance, but will rather truſt men to ſecure the ſame: for although they profeſs Gods Call to that Miniſtry at entering into it,<note place="margin">
+                  <hi>Tit.</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.16.</note> yet in works of obedience to beleeve him, therein they deny him, as not truſting to his promiſes to provide for them, <hi>Heb.</hi> 13.5.</p>
+            <p>In his 7th. page he produceth 1 <hi>Tim.</hi> 5.17, 18. how the <hi>Elders</hi> that <hi>Rule well,</hi> ſhould be counted <hi>worthy</hi> of <hi>double honour,</hi> &amp;c. The <hi>Oxe</hi> ſhall not be <hi>muzzled,</hi> and the <hi>Labourer</hi> is <hi>worthy</hi> of his <hi>reward.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> The double honour is taken to be reſpect &amp; Maintenance, which being given freely, as led forth of God from his Law in the heart, ſhews Obedience anſwerable in a true Profeſſor: which double honour muſt not be raked &amp; torn from the hearers by a human power, but drawn forth by the love of God; that as the Oxe is not to be muzled when he works for his Maſter in harveſt; neither is he to have power over his Ma<g ref="char:EOLhyphen"/>ſter by pulling and tearing what he liſt from him, but
+<pb facs="tcp:172142:4"/>
+               <pb n="6" facs="tcp:172142:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="7" facs="tcp:172142:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="8" facs="tcp:172142:6"/> to be a partaker, as refreſhed with ſome of the harveſt benefit: all which ſets forth the duty of true Converts, who ought freely to reſpect and maintain ſuch pure Goſpel Miniſters as have need and are religiouſly free to receive thoſe neceſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ries: that as they receive benefit by Scripture labourers, ſo it is their duty, and the love of God will conſtrain them (if they are true Chriſtians) to ſhew kindneſs unto his Meſſengers; but all theſe Scriptures ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e nothing towards Tyths, or a ſetled maintenance, the gift is left free unto the cheerful g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vers in the ſeveral generations according to the tenour of the Scriptures</p>
+            <p>
+               <note place="margin">2 <hi>Cor.</hi> 9.7.</note>
+               <hi>Mat.</hi> 9.38. He uſeth alſo, wherein our Saviour bids <hi>pray</hi> the <hi>Lord</hi> of the <hi>Harveſt,</hi> that he will <hi>ſend forth La<g ref="char:EOLhyphen"/>bourers into his Harveſt.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> This ſets forth Gods power, who only can fit and call men to the Miniſterial office, which may ſhew us how all the humane learning that men can obtain, cannot make a Goſpel Miniſter; it is the proper work of God, and to him we muſt pray to furniſh us in a pure Miniſtry; and it may inform us of the great miſtakes about this weighty work, wherein many have undertaken to make Miniſters, Divines, Bachellors, and Doctors of Divinity (or holineſs) &amp;c. which is impoſſible for carnal men to do; It is only God that makes men holy, and divine, as to par<g ref="char:EOLhyphen"/>take of the divine nature:<note place="margin">2 <hi>Pet.</hi> 2.4.</note> From whence note; Firſt, Goſpel Miniſters are the Lords labourers. Secondly, They muſt be called &amp; ſet to work by him. Thirdly, I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> we muſt pray unto him for ſending them, it ſhews hu<g ref="char:EOLhyphen"/>mane authority cannot do it. Fourthly, Whom he calls into his Vineyard, he will alſo reward, not by the might of men, or power of the ſword, but by the Spirit of God,<note place="margin">
+                  <hi>Zech.</hi> 4.6.</note> is the way that the Lord will work.</p>
+            <p>He uſeth, <hi>Rom.</hi> 13.7, 8. Wherein the Apoſtle writeth of, <hi>Tribute, Cuſtome, Fear, Honour, and Love.</hi>
+            </p>
+            <pb n="9" facs="tcp:172142:6"/>
+            <p>
+               <hi>Anſw.</hi> Tribute and Cuſtome was due to <hi>Caeſar,</hi> and the ſame Chriſt paid, as did the Iews,<note place="margin">
+                  <hi>Mat.</hi> 17.25.</note> it being a tem<g ref="char:EOLhyphen"/>poral thing, and for the like work, as to maintain <hi>Cae<g ref="char:EOLhyphen"/>ſars</hi> Army, which could not be offenſive to the conſci<g ref="char:EOLhyphen"/>ence; but whereas Tyths are paid, they are to a wrong uſe and end, for maintaining a Miniſtry contrary to the pure Goſpel practiſe, which muſt needs be heavy upon poor tender conſciences; yea ſuch Tyth gains and ſetled maintenance which is to be forced from men, draws many a carnal wretch to be of that functi<g ref="char:EOLhyphen"/>on where they can compel people to pay; ſo that there is a great difference betwixt paying Tribute and Cuſtome to maintain an Army, for defence of a Na<g ref="char:EOLhyphen"/>tion, and the paying an imitating Miniſtry by force of fleſh, as if it were a true Miniſtry ſent <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orth of God, and to ſet up their poſt by the Lords poſt,<note place="margin">
+                  <hi>Ezek.</hi> 43.8.</note> &amp;c. but concerning Fear, Honour, and Love, it is wiſhed thoſe graces were better known, and more practiſed a<g ref="char:EOLhyphen"/>mongſt us.</p>
+            <p>He uſeth, 1 <hi>Cor.</hi> 9.4. &amp;c. Wherein the Apoſtle pleads a power that God gives in uſe of the creatures, as a fre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dome to <hi>partake</hi> of <hi>carnal things</hi> where they did <hi>impart ſpirituals,</hi> and ſo to <hi>eat</hi> of the <hi>milk</hi> &amp;c.</p>
+            <p>
+               <hi>Anſw.</hi> It is true, that the right Goſpel Miniſters have that freedome from God ſo to do; but then ob<g ref="char:EOLhyphen"/>ſerve theſe particulars. Firſt, This power muſt be from the Lord, and not by a humane power, ſeeing neither Chriſt nor any of his Apoſtles did aſſume ſuch a thing. Secondly, Thoſe that receive by this pow<g ref="char:EOLhyphen"/>er of God, muſt take of the true flock,<note place="margin">
+                  <hi>Revel.</hi> 22.15. <hi>Revel.</hi> 21.27. 1 <hi>Cor.</hi> 6.9. <hi>Gal.</hi> 5.19.</note> and not of Swearers, Drunkards, Lyars, Whoremongers, &amp;c. which ſhall not inherit the Kingdome of God, but be ſhut out. Thirdly, Note how far the Apoſtle was from a humane law, to compel, that he did not uſe his power given him of God to receive the peoples free gift, leſt the Goſpel work ſhould be hindred, 1 <hi>Cor.</hi> 9.
+<pb n="10" facs="tcp:172142:7"/> 12, 15. Therefore thoſe that uſe any other power than from the Lord, in forcing a maintenance for Mini<g ref="char:EOLhyphen"/>ſters,<note place="margin">
+                  <hi>Ier.</hi> 2.13.</note> they forſake the fountain, and betake themſelve<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to the broken Ciſtern.</p>
+            <p>Goſpel Miniſters are Gods labourers, whom he ſend into his Vineyard or Kingdome of grace to wor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> there, but if theſe prove like the World, to ſtrive fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Preferment, Pride, Riches, and Honour there, the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> will be no more able to get truly into his Kingdome than is a Camel to go through the eye of a needle;<note place="margin">
+                  <hi>Mat.</hi> 19.24.</note> fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thereby they fall into the great ſnare, which the ſervan<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of God ſhould flee from, 1 <hi>Tim.</hi> 6.9. Therefore warn all thoſe from the Lord that deſire the miniſteri<g ref="char:EOLunhyphen"/>al office to wait in the pure way, but go not forrh unti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you are truly called of God, &amp; look not on any carn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ends to draw you, for whatſoever is of the World <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not of God,<note place="margin">1 <hi>Tim.</hi> 6.8.</note> 1 <hi>John</hi> 2.15, 16. And learn of that Goſ<g ref="char:EOLunhyphen"/>pel-planter to be content with food and raiment, wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> had learning and piety, yet poverty was joyned ther<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with; and if Goſpel practiſe be our rule, to have no <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ther maintenance but the peoples free gift, then tho<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that ſeek to be Goſpel Miniſters would do it out of pure love, and not ſelf-ends, yea then women woul<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not deſire to marry unto them for carnal greatneſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> but for their goodneſs.</p>
+            <p>He uſeth, <hi>Rom.</hi> 15.26, 27. how it pleaſed them o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Macedonia,</hi> and <hi>Achaia,</hi> to make a certain contrib<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tion for the poor Saints —that as the <hi>Gentiles</hi> ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> been made partakers of their <hi>Spiritual things,</hi> the duty is alſo to miniſter unto them in <hi>Carnal things.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Firſt, this relief for the Saints, was a v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>luntary act, for it pleaſed them ſo to do; It being o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of a pure Goſpel love, and not by outward compul<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>on.</p>
+            <p>Secondly, It was no Tyths or ſetled maintenan<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> but a certain contribution in time of need for the po<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Saints.</p>
+            <pb n="11" facs="tcp:172142:7"/>
+            <p>Thirdly, Such free gifts from the richer to the poorer, are debts that God requires, as <hi>verſ.</hi> 27. <hi>Whoſe debters they are,</hi> yet the Lord never gave man a humane power to compel this debt.</p>
+            <p>Fourthly, As Goſpel giving and receiving in ſpi<g ref="char:EOLhyphen"/>rituals, and temporals are free, without compulſi<g ref="char:EOLhyphen"/>on; ſo thoſe acting therein, do declare themſelves of the ſame body, wherein one Member ſupplyeth the want of another.<note place="margin">1 <hi>Cor.</hi> 12.26.</note>
+            </p>
+            <p>Laſtly, This gift, debt, or contribution, was from the true flock, and not of thoſe that lived in their filth; which ſhews of whom Goſpel Miniſters may take relief.</p>
+            <p>It is worthy of obſervation, to note the difference betwixt the <hi>Law Miniſters</hi> in <hi>Temple Worſhip,</hi> and the <hi>Goſpel Miniſters</hi> in <hi>Spiritual Worſhip,</hi> and how near <hi>our National Miniſtry</hi> hath come to that under the <hi>Law.</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Theirs of the Law.</cell>
+                     <cell>Our National.</cell>
+                  </row>
+                  <row>
+                     <cell>Firſt, God made a Law to give the <hi>Levites</hi> Tyths.</cell>
+                     <cell>Men made Laws to give the National Tyths.</cell>
+                  </row>
+                  <row>
+                     <cell>2. They had offerings—</cell>
+                     <cell>So had the National.</cell>
+                  </row>
+                  <row>
+                     <cell>3. God gave them the Law, which they read to the people, for they owned the propheſies, but little before the captivity.</cell>
+                     <cell rows="2">Men made a ſet form of prayer, which they read; &amp; after that a directory, whereas Miniſters ſhould do the works of God as the Spirit leads them, <hi>John</hi> 16.13. Men built high places in ſeveral pariſhes, which were Maſs-houſes a long time, and called them Churches, and conſecra<g ref="char:EOLhyphen"/>ted them, pretending they were holy.</cell>
+                  </row>
+                  <row>
+                     <cell>4. God owned their Temple, built for his worſhip at Jeruſalem, as a holy place which was conſecrated.</cell>
+                  </row>
+                  <row>
+                     <cell>5. They uſed Temple
+<pb n="12" facs="tcp:172142:8"/> worſhip, with muſick, &amp;c.</cell>
+                     <cell>
+                        <pb n="11" facs="tcp:172142:7"/>They had Organs and
+<pb n="12" facs="tcp:172142:8"/> other inſtruments.</cell>
+                  </row>
+                  <row>
+                     <cell>6. They had high Prieſts.</cell>
+                     <cell>They had Arch Biſhops.</cell>
+                  </row>
+                  <row>
+                     <cell>7. They had Prieſts Garments appointed of God.</cell>
+                     <cell>They had Surplices, Hoods, Tippets, &amp;c. ap<g ref="char:EOLhyphen"/>pointed of men.</cell>
+                  </row>
+                  <row>
+                     <cell>8. God appointed the Tribe of <hi>Levi</hi> for that of<g ref="char:EOLhyphen"/>fice.</cell>
+                     <cell>Men deſigned Univer<g ref="char:EOLhyphen"/>ſity Scholers, to be the only Miniſters.</cell>
+                  </row>
+                  <row>
+                     <cell>They looked ſo much on the outward, that God ha<g ref="char:EOLhyphen"/>ted it, <hi>Iſa.</hi> 1.14.</cell>
+                     <cell>So did too many of theſe look on the fleece, gains, and outward worſhip, but little purity.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Whereas, if we look on the Goſpel Miniſtry which ſhould be our guide, we ſhall find a poor deſpiſed Chriſt, who came in poverty and ſo lived; that i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his Miniſterial office laid by his power, in compel<g ref="char:EOLhyphen"/>ling corporal neceſſities, and took peoples love i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> giving him food,<note place="margin">2 <hi>Cor.</hi> 8.9</note> and miniſtring to him of their ſub<g ref="char:EOLhyphen"/>ſtance, <hi>Luke</hi> 8 3 <hi>Phil.</hi> 2.7. <hi>Luke</hi> 11.37. <hi>John</hi> 2.2. <hi>Luke</hi> 14. 1. <hi>Luke</hi> 19.5.<note place="margin">
+                  <hi>Luke</hi> 19.31. <hi>Mat.</hi> 8.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0.</note> Nor did he claim either horſe to ride upon, or houſe to dwell in as his own: all which pattern from him ſhews us, (if we are Goſpe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Miniſters) how to wave the pomp and glory of the World, which practiſe the Apoſtles followed, wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> approved themſelves the Miniſters of God, 2 <hi>Cor.</hi> 6 4, 10. Yea Gods witneſſes in the ſeveral ages were ſuf<g ref="char:EOLunhyphen"/>ferers, and went about as poor deſpiſed creatures yet of them the <hi>World was not worthy,</hi> Heb. 11.36, 37 38.</p>
+            <p>
+               <note place="margin">
+                  <hi>Mat.</hi> 6.33.</note>It is the duty of a true Miniſter, to ſeek firſt th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Kingdome of God, and truſt unto his maſter for ſup<g ref="char:EOLunhyphen"/>plies, who hath promiſed to add what is needful, no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> doing as the heathen <hi>Gentiles,</hi>
+               <note place="margin">
+                  <hi>ver.</hi> 24.32.</note> taking care what t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> eat, drink; &amp;c. looking for humane ſecurity to infor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his Salery, before he ſets upon the work; and if o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> living be ſmall to ſtudy how a greater may be obtain
+<pb n="13" facs="tcp:172142:8"/> for all theſe things are oppoſite to the Apoſtles practiſe, who ſought not the peoples wealth,<note place="margin">2 <hi>Cor.</hi> 12.14.</note> but their eter<g ref="char:EOLhyphen"/>nal welfare.</p>
+            <p>Object. If ſome ſay, <hi>Miniſters having nothing for teaching, but what is given them according to the Goſpel manner, that may make people worſe, which care not for teaching, ſo they can ſave their Tyths.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Although Goſpel allows not Miniſters to take maintenance of ſuch filthy perſons, yet Gods Law authorizeth Magiſtrates to puniſh ſuch offenders for their wickedneſs, who ſin preſumtuouſly, yea to make them as <hi>Iſrael</hi> did the uncircumciſed to be <hi>drawers of water, and hewers of wood,</hi>
+               <note place="margin">
+                  <hi>Joſh.</hi> 9.21.</note> be they rich or poor, not ſuffering ſuch to bear offices in the <hi>King<g ref="char:EOLhyphen"/>dome:</hi> and if godly perſons only were put in office and authori<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, and ſuch Swearers, Lyers, Drunkards, Whore-mongers, and other beaſt-like people kept off and puniſhed, then <hi>Davids</hi> practiſe would be follow<g ref="char:EOLhyphen"/>ed, and a bleſſing follow upon the Na<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion; yea,<note place="margin">
+                  <hi>Pſal.</hi> 101.1. &amp;c.</note> then the one half of thoſe nurſeries and ſeed-plots of ſin, (call'd Alehouſes) could not continue.</p>
+            <p>He uſeth, <hi>Mal.</hi> 3.8, 9. Wherein the Lord complains of the people <hi>robbing him in tyths and offerings,</hi> upon which they were <hi>curſed;</hi> and in <hi>Levit.</hi> 27.30. <hi>Tyths</hi> are called the <hi>Lords;</hi> and <hi>Hag.</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.9 the <hi>curſe</hi> is ſaid to be <hi>up<g ref="char:EOLhyphen"/>on</hi> the <hi>increaſe</hi> for <hi>neglect thereof;</hi> alſo in <hi>Hag.</hi> 2.16. &amp;c.</p>
+            <p>
+               <hi>Anſwer</hi> As thus Tyths were the Lords, and thoſe that with-held them was ſaid to rob God, ſo were free gifts from Saints, given to Goſpel Miniſters and o<g ref="char:EOLhyphen"/>thers in want, due unto Ieſus Chriſt, and owned by him, as he evidently declares, by the with holding or giving unto ſuch, as to himſelf, ſaying, <hi>I was hungry,</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 23.35. &amp;c.</note> 
+               <hi>Thirſty, Naked; a Stranger, in Priſon,</hi> &amp;c. and thus you <hi>did unto me,</hi> by which you may ſee. Firſt, how Tyths were the Law-miniſters pay, and free gifts the Goſpel Miniſters pay. Secondly, How Tyths under
+<pb n="14" facs="tcp:172142:9"/> the Law, and free gifts under the Goſpel are the Lords own. Thirdly, How thoſe that with-held Tyths from the Prieſts, or free gifts from the Goſpel Miniſters, the Lord takes it as done to himſelf. Fourthly, How thoſe Tyths, and Goſpel free gifts were never ſet forth by humane authority, but God gave them to his Meſſengers by his own power, under the ſeveral diſ<g ref="char:EOLhyphen"/>penſations for their maintenance. Fifthly, How God never gave power unto man, that one creature ſhould Curſe, Fine, Impriſon, or perſecute another for refu<g ref="char:EOLhyphen"/>ſing, detaining, or neglecting the payment of Tyths to the <hi>Levites,</hi> or free gifts to Goſpel Miniſters, but he reſerved that to himſelf, as the places before cited do evidently declare. So that in all the Scriptures I find not any power God gave to man in ſetling a maintenance for Prieſts, Levites, or Goſpel Mini<g ref="char:EOLhyphen"/>ſters,<note place="margin">
+                  <hi>Ezek.</hi> 44.28.</note> but the Lord did that work, who being the <hi>Le<g ref="char:EOLhyphen"/>vites</hi> inheritance, they had no poſſeſſion in the Land, nor humane Law to compel what God gave them; nor did Chriſt give unto his Apoſtles any humane authority to enforce a maintenance from their audi<g ref="char:EOLhyphen"/>tors, but they muſt go forth empty, without money, Scrip, &amp;c. nor can we read of any in Scripture that aſſum'd a humane power to compel ſuch things, except <hi>Elies</hi> Sons of <hi>Belial.</hi>
+               <note place="margin">1 <hi>Sam.</hi> 2.12.16.</note>
+            </p>
+            <p>He affirms in his Plea, that <hi>Patryarchs</hi> gave Tyths before the Law; and <hi>Page</hi> 53. tells us, that then they <hi>vowed Tyths to God.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> The Scriptures ſpeak no ſuch thing. For al<g ref="char:EOLhyphen"/>though <hi>Abel, Noah, Iſaac,</hi> and <hi>Jacob,</hi> offered to God, yet <hi>Abraham</hi> only paid Tyths,<note place="margin">
+                  <hi>Gen.</hi> 14.18. <hi>Heb.</hi> 7.1. &amp;c.</note> in a voluntary way once unto <hi>Melchiſedeck,</hi> without any command to do it, or to continue it yearly, which free-will Act he did after the victory he obtain'd; as <hi>Noah</hi> offered an offering after deliverance from the general flood, <hi>Gen.</hi> 8.20. and ſo <hi>Noah</hi> and <hi>Abraham</hi> did hereby ſhew
+<pb n="15" facs="tcp:172142:9"/> their thankful obedience to the Lord who gave them ſuch deliverances; as did thoſe Converts when they had victory over ſin, and became Diſciples of Chriſt, in token of thankfulneſs, they made their goods com<g ref="char:EOLhyphen"/>mon to poor Diſciples, <hi>Acts</hi> 2.44. <hi>Acts</hi> 4.34. And as <hi>Zacheus</hi> when ſalvation was come to his houſe (or heart) to manifeſt his joy, he gave to the poor, and made reſtitution where he had been unjuſt;<note place="margin">
+                  <hi>Luke</hi> 19.8.</note> all which actions, of <hi>Abrahams</hi> giving Tyths, <hi>Zacheus</hi> reſtitu<g ref="char:EOLhyphen"/>tion, and the Diſciples community, were a like free, alike voluntary, none of them forbidden to be conti<g ref="char:EOLhyphen"/>nued, nor none of them commanded to be imitated, yet all were holy actions; ſo that theſe things make no<g ref="char:EOLhyphen"/>thing for a Goſpel plea to ſettle Tyths, or a yearly maintenance for Goſpel Miniſters, neither was theſe works intail'd upon their poſterity (as <hi>Englands</hi> Tyths are ſaid to be) but left to the freedome of af<g ref="char:EOLhyphen"/>ter generations: alſo note, how <hi>Abraham</hi> gave the tenth of the ſpoils taken by his Souldiery from the e<g ref="char:EOLhyphen"/>nemy, ſo it was not of his own labour, and of his Ser<g ref="char:EOLhyphen"/>vants and Cattel, whereby they had toiled in heats and colds all the year, as <hi>Englands</hi> Tyth-takers do force it from many; ſo that this free work in <hi>Abraham</hi> is neither warrant nor example, for us to make a Law in our Nation, to compel men by force and vio<g ref="char:EOLhyphen"/>lence, in paying the tenth of all their labour and in<g ref="char:EOLhyphen"/>creaſe unto a Miniſtry.</p>
+            <p>Yet theſe things, and about the Jewiſh Tyths, do much inlarge his book, and of the Jewiſh warriers which gave of the ſpoils in time of Temple worſhip; he ſeeking to model ſomething from thence for us to imitate,<note place="margin">
+                  <hi>Heb.</hi> 9.9.10.</note> not obſerving theſe gifts and ſacrifices how they held until the time of reformation: but if he had well weighed the Apoſtles diſcourſe, from <hi>Heb.</hi> 7.1. to <hi>Heb.</hi> 8.13. he might have ſeen the ſcope thereof, to declare the excellency and clearneſs of Chriſts King<g ref="char:EOLhyphen"/>dome,,
+<pb n="16" facs="tcp:172142:10"/> 
+               <hi>Heb.</hi> 8.10, 11. in the New Covenant wo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> when all ſhall be taught of God,<note place="margin">
+                  <hi>Iohn</hi> 6.45.</note> and he will write <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Laws in their hearts, ſo that his teacher, the anoint <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> abideth within, and there is no need of men to teac<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 1 <hi>John</hi> 2.27. When by the Spirit of God, the who<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhall be full of light, <hi>Luke</hi> 11.36. as the ſure wo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of propheſie, from that Spirit will make a glorio<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> work,<note place="margin">2 <hi>Pet.</hi> 1.19.</note> to ſhine as a light in a dark place; but thi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> myſtery, which fleſh is more ready to cavil at; a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> why? Becauſe the natural man ſees not ſpirituall<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſo theſe things are fooliſhneſs unto him, 1 <hi>Cor.</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 14.</p>
+            <p>But thus much I may open, that in the New Cov<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>nant work, all hireling Teachers ſhall be laid aſid<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſo that men will not aſſume the Miniſterial office u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>til they have a ſure call of God to go forth, nor ſh<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> pure hearers give heed unto any, but thoſe thus calle<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> whereby that one God, by his own Spirit ſhall tea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his Miniſters what to ſpeak, and their auditors ho<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to uſe what is made known, and ſo Teachers a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Hearers, all in the true Church ſhall be taught <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> God, as they are all <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aught by his Spirit, and no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſpeaks or hears, but by the leadings forth of the ſa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God;<note place="margin">
+                  <hi>Mat.</hi> 10.20.</note> and thus declares our Saviour, it is not <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that ſpeak but the Spirit of your Father that ſpeake<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in you; ſo that in the pure Goſpel work of his Min<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſters, God owns their ſpeakings to be his, and th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> teachings to be his,<note place="margin">
+                  <hi>Luke</hi> 10.16. <hi>Mat</hi> 25.35. &amp;c.</note> as he did of his Prophets, and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> takes good or evil done to them as to himſelf: therefo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all thoſe who long for this glorious New Covena<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> work, leave off to plead for a hireling Miniſtry <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſerve for lucres ſake, and live in filth (as many do and let us go on to the perfection of things.</p>
+            <p>He uſeth, <hi>Mat.</hi> 23.23. <hi>Luke</hi> 11.42. about t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Jews Tything Mint, Rue, &amp;c. which by them ou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to be done.</p>
+            <pb n="17" facs="tcp:172142:10"/>
+            <p>
+               <hi>Anſw.</hi> God never commanded any people upon <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he earth, to pay Tyths but the Jews, ſo this only <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oncern'd them, and is nothing to us Gentile Church<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, from whom the Lord never required ſuch a thing <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Tyths, or any ſettled Maintenance for his Mini<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ters whatſoever, nor did the Apoſtles ever practiſe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uch a thing, nor do the Scriptures any where ſeem to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ountenance the ſame; therefore as every building <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tands on its own Baſis, ſo our Goſpel Churches muſt be built upon the Goſpel Foundation, Jeſus Chriſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eing the cheef corner ſtone; but thoſe that impoſe or <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orce any Tyths,<note place="margin">
+                  <hi>Epheſ.</hi> 2.20.</note> or ſetled maintenance for the Mini<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>try by a National law, they are beſides this true Foundation work, being upon that combuſtible mat<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er, of Wood, Hay, Stubble, &amp;c. which muſt be <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ryed and burnt up by the fire of Gods Spirit.<note place="margin">1 <hi>Cor.</hi> 3.10.12.</note>
+            </p>
+            <p>He uſeth, <hi>Gal.</hi> 6.6. How he that is <hi>taught</hi> in the <hi>word</hi> ſhould <hi>communicate</hi> unto him that <hi>teacheth</hi> in all <hi>good things,</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> According to the pure Goſpel practiſe, his ſhould be our way to maintain faithful Miniſters, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y communicating, imparting, or giving freely unto <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem without any outward inforcement whatſoever, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f Fines, Warrants, Perſecution, &amp;c. That as God <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reely ſends forth his Teachers, ſo the auditors to re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eive the ſame ſpiritual nouriſhment freely, without honey or the like price, of Indenting, Securing,<note place="margin">
+                  <hi>Rev</hi> 21.6. <hi>Iſa.</hi> 55.1. <hi>Rev.</hi> 22.17. <hi>Mat.</hi> 10.8.</note> Bar<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aining, &amp;c. aforehand, what to have for teaching: <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o likewiſe were the converts to retaliate freely in cor<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oral ſupplies unto ſuch Teachers by way of commu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ication; that is, as the Diſciples in teaching, made <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he ſpiritual gift common, or free to all that deſired it: <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o thoſe that were taught, ſhould make their corporal <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ouriſhments common or free unto ſuch Miniſters, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> neceſſity required, for the word is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>com<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>unices,</hi> which holds forth that Communion, union,
+<pb n="18" facs="tcp:172142:11"/> together in the body of Chriſt, ſociety and fellowſhip, as every member helping, communicating, and taking care one of another.</p>
+            <p>He uſeth, <hi>Luk.</hi> 19.8. about <hi>Zacheus reſtitution,</hi> and <hi>giving</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the <hi>poor, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> This nothing concerns a ſetling of a Main<g ref="char:EOLhyphen"/>tenance, <hi>&amp;c.</hi> But here profeſſors may behold a nota<g ref="char:EOLhyphen"/>ble ſign of a true convert: and if <hi>William Pryn</hi> had took the like pains to draw <hi>Englands</hi> ſeveral ſects unto <hi>Zacheus</hi> practiſe, he had done a good work; which if taking effect, there are many profeſſors would not be quiet in their conſciences, to ſit ſtill upon their dung<g ref="char:EOLhyphen"/>hills of ill gotten goods, untill reſtitution was made in what they had wronged others.</p>
+            <p>He uſeth <hi>Rom.</hi> 13.1, <hi>&amp;c.</hi> how <hi>every ſoul</hi> muſt be <hi>ſubject</hi> to the <hi>higher Powers,</hi> &amp;c. And ſo would infer from thence, that as the powers of a Nation make a law for Tythes, <hi>&amp;c.</hi> So ſuch a Power ſhould be obey<g ref="char:EOLhyphen"/>ed therein</p>
+            <p>
+               <hi>Anſw.</hi> This Inference is no Goſpel, but a wrong conſequence drawn forth; for although the powers of a Nation, can and ought to make laws agreeable to the law of God, yet they have no power from the Lord to reſtrain or bind the tender conſciences in a ſpiritual work, as forcing them to tranſgreſs therein, or elſe to ſuffer perſecution.</p>
+            <p>
+               <hi>Nebuchadnezzars</hi> power made laws, which I doubt not but in temporal rights the Jews obeyed; but when his decree was to worſhip the Image,<note place="margin">
+                  <hi>Dan.</hi> 3.1, &amp;c</note> that being repugnant to God Law, their was no damnation un<g ref="char:EOLhyphen"/>to <hi>Shedrach, Meſhach,</hi> and <hi>Abednego,</hi> who could not in conſcience yeeld unto it, that being no Ordinance of God. It is good therefore that thoſe which make laws and execute them, be firſt grounded in the Scrip<g ref="char:EOLhyphen"/>tures,<note place="margin">2 <hi>Tim.</hi> 3.15.</note> which are <hi>able to make men wiſe unto Salvation, through faith in Chriſt Jeſus:</hi> Being well accquainte<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="19" facs="tcp:172142:11"/> with Gods Laws, to know which are in force and what is repealed; ſeeing all Chriſtian laws ſhould be meaſured by the rule of God Laws: and if no Scrip<g ref="char:EOLhyphen"/>ture ſpeaks the ſame thing you have in hand; yet ſee which cometh neareſt to it, that ſo like <hi>Moſes</hi> the ſer<g ref="char:EOLhyphen"/>vant of God, knowing his Laws well, you may be the better able to give forth Laws unto the people.</p>
+            <p>He uſeth 1 Pet. 2.13, 14. <hi>Submit your ſelves to e<g ref="char:EOLhyphen"/>very Ordinance of man for the Lords ſake, whether it be to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he King as ſupream,</hi> &amp;c.</p>
+            <p>
+               <hi>Anſw.</hi> This Scripture cometh near unto the for<g ref="char:EOLhyphen"/>mer, at which time of <hi>Paul</hi> and <hi>Peters</hi> preaching, the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>upream Powers did not make Ordinances againſt Chriſtian profeſſors; for the ſev<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ral Nations in that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>art of the world under <hi>Caeſars</hi> government, had their <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iberty in worſhip, and ſo had the Chriſtians untill <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he times of perſecution: yea thoſe then in govern<g ref="char:EOLhyphen"/>ment were greater friends unto them, then was the profeſſing Jews;<note place="margin">
+                  <hi>Mat.</hi> 27.24. <hi>Act.</hi> 12.3. <hi>Acts</hi> 23.24. <hi>Act.</hi> 14.2.</note> for even <hi>Pilate</hi> condemned Chriſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t the Jews: requeſt: and <hi>Herods</hi> cruelty was to pleaſe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Jews: alſo <hi>Paul</hi> was defended from the Jews rage <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y that preſent Power: yea the Jews ſtirred up the Gentiles againſt the diſciples, and the Jews in <hi>Baby<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on, Media, Perſia,</hi> &amp;c. Had their liberty in religion, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eing to pray for that peace of the City where they was <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n captivity, <hi>Jer.</hi> 29 7.</p>
+            <p>Such freedome had the Goſpel planters, that <hi>Pauls</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reached the Goſpel from <hi>Jeruſalem</hi> to <hi>Illyricum:</hi>
+               <note place="margin">
+                  <hi>Rom.</hi> 15.19.</note> ſo <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at it fully appears, how theſe Ordinances to be ſubmit<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> unto, and thoſe higher powers unto whom ſubjecti<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, ſhould be ſhewed, was then required in civill rights <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd temporal things, not any way binding the conſci<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce, nor hindring their Chriſtian worſhip; which <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>otwithſtanding the Jews cruelty, yet ſuch a liberty <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ld untill bloody <hi>Nero</hi> began to perſecute and but<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er the Saints; for God never gave his creatures
+<pb n="20" facs="tcp:172142:12"/> power to force and drag one another to their Forms and to fine, impriſon, and puniſh each other about ca<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſes of Conſcience, and matters of Religion; tho<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> things are betwixt God &amp; the Soul, as outward thing are betwixt man and man. And although Chri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> teache<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h us to <hi>bleſs them</hi> that <hi>curſe us,</hi> and <hi>pray</hi> for <hi>the</hi> that <hi>perſecute us:</hi>
+               <note place="margin">
+                  <hi>Mat.</hi> 5.44.</note> yet I find not any Command, to pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for ſuch a Power that perſecutes the Conſcience, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> continue ruling over us; but that <hi>prayers, ſupplicat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ons, thanſgivings,</hi> &amp;c. be <hi>made</hi> for <hi>Kings,</hi> and for <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that are i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>authority,</hi>
+               <note place="margin">1 <hi>Tim.</hi> 2.1, 2.</note> thar we may <hi>lead a quiet</hi> a <hi>peaceable life</hi> in <hi>all godlineſs</hi> and <hi>honeſty:</hi> which <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that the <hi>King</hi> may ſo rule, and thoſe in Authority execute the Laws, whereby we may pray for him <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> them, ſhewing our ſubjection, and enjoying our Ch<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſtian freedome, as Chriſt hath made us free, <hi>Ioh<g ref="char:punc">▪</g>
+               </hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 36.<note place="margin">1 <hi>Cor.</hi> 7.13</note> That as we are bought with a price, ſo we <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not be the ſervants of men unto their Forms; fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that compelleth or enforceth me unto his Form u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> pretence of a Religious work, denieth me of my C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſtian liberty, which Chriſt hath purchaſed for me<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+            <p>Concerning a humane inforcement of Tyths, though no Scriptures allow it; yet <hi>William Pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> pretends to gather ſomething from <hi>Hezekiahs</hi> pra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in <hi>commanding</hi> the People to <hi>give</hi> the <hi>portion</hi> o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Prieſts</hi> and <hi>Levites,</hi> 2 Chron. 31.4.</p>
+            <p>
+               <hi>Anſw.</hi> He commanded no more than wha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Lord before had given them; ſo <hi>Hezekiah</hi> ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Law to ſettle a Maintenance, neither did he uſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> compulſion by priſons,<note place="margin">2 <hi>Chron.</hi> 30.10.</note> ſwords, puniſhment or the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> on refuſers, although many mocked at his M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>gers ſent forth by him; ſo this of <hi>Hezekiah</hi> is no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to us.</p>
+            <p>He brings in two Heathen <hi>Kings</hi> to prove th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> forcement of Tyths, which were <hi>Darius,</hi> and <hi>A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>erxes,</hi>
+               <note place="margin">
+                  <hi>Ezra</hi> 6.11</note> who made and gave decrees to <hi>Ezra,</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> building the <hi>Temple,</hi> &amp;c.</p>
+            <pb n="21" facs="tcp:172142:12"/>
+            <p>
+               <hi>Anſw.</hi> God calls <hi>Aſſyria</hi> the rod of his wrath,<note place="margin">
+                  <hi>Ezra</hi> 7.11</note> 
+               <hi>Iſa.</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>0.5. and <hi>Nebuchadnezzar</hi> his ſervant, <hi>Ier.</hi> 27.6, 7. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd <hi>Cyrus</hi> his Shepherd, <hi>Iſa.</hi> 44.28. as they executed <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Lords pleaſure, to ſerve in what he made them in<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ruments: and ſo when Gods time was come to turn <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Captivity, he made uſe of theſe two Heathen <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ings,</hi> that Commiſſioned <hi>Ezra:</hi> But this concerns <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t the inforcement of Tyths, <hi>&amp;c.</hi> only it ſhews thus <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uch. Firſt, What baſe, mean things, God ſome<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es makes uſe of to fulfil his pleaſure. Secondly,<note place="margin">1 <hi>Cor.</hi> 1.27, 28.</note> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat when the Lords time is to Captivate, or to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing forth, none ſhall withſtand it.</p>
+            <p>He uſeth <hi>Acts</hi> 5.1, &amp;c. Of <hi>Ananias</hi> and <hi>Saphy<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> in <hi>keeping a part back,</hi> when they had <hi>given</hi> it to <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oly uſe.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Theirs was a voluntary act, as others were make their goods common and free to other Diſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>les in want: now before theſe two had ſo promiſed, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir goods were their own, but being ſo given by <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mſelves to that uſe of Community,<note place="margin">
+                  <hi>Verſ.</hi> 4.</note> they were the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rds, and for the refreſhment of his Saints in want: <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>refore they not performing to give all, when they <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d engaged all, and God was witneſs to it, but kept <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k a part, they thus failing in it, lyed unto God, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d ſo periſhed in their ſin of Covenant breaking. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t Promiſe-breakers conſider this, how in ſuch a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uce or Covenant God is witneſs; for in theſe lat<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> dayes many ſhew themſelves according to the Apo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s propheſie: therefore be careful to perform what <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ceeds out of your mouths.<note place="margin">2 <hi>Tim.</hi> 3.3.</note>
+            </p>
+            <p>He citeth, <hi>Acts</hi> 5.38, 39. of <hi>Gamaliels</hi> counſel, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut the Apoſtles new Doctrine, who deſired that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight be <hi>let alone,</hi> &amp;c.</p>
+            <p>
+               <hi>Anſw.</hi> Good were it, if <hi>Englands Lawyers,</hi> would <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n of that wiſe <hi>Gamaliel;</hi> to let the new diſcoveries God alone, that he by his ſervants may ſhew his
+<pb n="22" facs="tcp:172142:13"/> good pleaſure; and not to choak and ſtiffle the li<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in its breaking forth, becauſe it is ſomething m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> than as yet fleſh underſtands; for oft times when <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> carnal man runs ſuddainly upon action, he ſtriket<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>gainſt the appearances of God.</p>
+            <p>He uſeth, <hi>Rom.</hi> 2.1. &amp;c. about <hi>judging</hi> of <hi>o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> &amp;c. which Scrip<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ure if well applyed, might take us from ſelf juſtifying, for it is commonly the high c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ceit of our ſelves, and our own form, that cauſet<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to judge and condemn another; and thus did <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> proud <hi>Phariſee,</hi> whereas ſelf commendation is not proved,<note place="margin">
+                  <hi>Luke</hi> 18.11. 2 <hi>Cor.</hi> 10.18.</note> but whom the Lord commandeth.</p>
+            <p>He uſeth, <hi>Rom.</hi> 12.20. How we ought to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>love</hi> unto our <hi>enemies:</hi> which leſſon I heartily d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that both he and my ſelf may truly ſtrive for, th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> we may heap thoſe coals of love upon our ene<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> heads, whereby they may love us again.</p>
+            <p>I ſhall now ſearch further into the Scriptures, the Goſpel practiſe of Saints, in the virgin tim<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Church, which ſhould be our preſidents to fol<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> concerning relief of poor Diſciples &amp; Teachers m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tenance.</p>
+            <p>
+               <note place="margin">
+                  <hi>Acts</hi> 11.29.</note>Relief was ſent according to each perſons a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and determina ion, which doubtleſs was to ſuc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> both teachers and hearers, ſo that was not done <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ny humane law.</p>
+            <p>
+               <note place="margin">
+                  <hi>Acts</hi> 16.15.34.</note>
+               <hi>Lydia,</hi> out of her free love, cauſed the Diſcipl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> partake of her ſubſtance, and ſo did the Iaylor.</p>
+            <p>
+               <hi>Paul</hi> coveted no mans ſilver nor gold, but his h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> miniſtred to his neceſſities, (he being a Tent-ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and ſhews from our Lord, that i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is more bleſſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> give,<note place="margin">
+                  <hi>Acts</hi> 18.3. <hi>Acts</hi> 20.33. &amp;c.</note> than to receive; ſo <hi>Paul</hi> lived not on the ſwe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> other mens labours, but wrought to maintain him and ſupply the wants of others, and brought alm<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his Nation;<note place="margin">
+                  <hi>Acts</hi> 24.17.</note> all which ſtands in oppoſition to a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ced maintenance.</p>
+            <pb n="23" facs="tcp:172142:13"/>
+            <p>We are taught to diſtribute unto the neceſſity of Saints, given to hoſpitality, &amp;c. &amp; <hi>Rom.</hi> 15.7, 9.<note place="margin">
+                  <hi>Rom.</hi> 12.13.</note> to re<g ref="char:EOLhyphen"/>ceive one another, as Chriſt alſo received us to the glory of God; and that the Gentiles might glorifie God for his mercy, &amp;c. which he further opens con<g ref="char:EOLhyphen"/>cerning their practiſe, verſ. 26, 27. not only by a profeſſion of holineſs, but alſo in doing good to o<g ref="char:EOLhyphen"/>thers in want: being ſo led forth to make a diſtribu<g ref="char:EOLhyphen"/>tion, as diſtributing, or contributing of temporal things, by works of mercy anſwerable to what they profeſſed; that as faithful Miniſters ſpare not to teach, ſo converts ſhould be ready to impart and give, in all which the Apoſtle neither commandeth, teacheth, or practiſeth any humane violence.</p>
+            <p>1 <hi>Cor.</hi> 4.11, 12. Although <hi>Goſpel</hi> Teachers ſuffe<g ref="char:EOLhyphen"/>red hunger, thirſt, and the like, yet they were con<g ref="char:EOLhyphen"/>tented, labouring with their hands; not calling to earthly Powers to ſettle them a maintenance, but truſting God for corporal ſupplies, as he ſhould move the peoples hearts to give, not uſing that power from God, as 1 <hi>Cor.</hi> 9.4. &amp;c. whereby he might have feaſted and filled himſelf with the creatures, but he kept under his body in ſubjection, why?<note place="margin">1 <hi>Cor.</hi> 9.27.</note> leſt having preached to others, <hi>Paul</hi> ſhould be a caſt away</p>
+            <p>2 <hi>Cor.</hi> 2.17. Saith the old tranſlator, we are not as many which make Merchandiſe of the word of God: &amp;c. Wherein it is evident, how the true Apoſtles ab<g ref="char:EOLhyphen"/>horred Preaching for hire, yet having nothing in poſ<g ref="char:EOLhyphen"/>ſeſſion (as to call their own) but the Churches did ſupply their wants, which Churches being in poverty,<note place="margin">2 <hi>Cor.</hi> 6 10.</note> they acted willingly therein; firſt giving themſelves to the Lord, and then give unto the Diſciples by the will of God, 2 <hi>Cor.</hi> 8.1, 2, 3, 4, 5. ſo it was not by the will of men, but there was a willing mind, verſ. 12.14. working that equality, wherein the abun<g ref="char:EOLhyphen"/>dance of the teachers ſpirituals ſupplyed the hearers
+<pb n="24" facs="tcp:172142:14"/> wants, and the abundance of the hearers temporals ſupplyed the teachers wants.</p>
+            <p>
+               <note place="margin">1 <hi>Cor.</hi> 16.1, 2.</note>At <hi>Corinth</hi> and <hi>Galatia</hi> they were taught to lay by in ſtore of the collection of Saints: how? not as men compel'd them, but as God had proſpered every one, and 2 <hi>Cor.</hi> 9.5. <hi>Paul</hi> exhorts to this bounty in giving, not threatning or compelling, but in a lovely Goſpel manner, as every man purpoſed in his heart to do it chearfully; in which he commends them for their liberal diſtribution, but gives the thanks to God, who led them forth thereunto, 2 <hi>Cor.</hi> 9.7, 8, 13, 15. In 2 <hi>Cor.</hi> 11.2, 3. <hi>Paul</hi> deſires to preſent the Church a chaſt Virgin, yet fears her adulterating, therefore to ſtir them up in zeal, he ſhews his love unto them, and how he had robbed, (or neglected the ſervice of) other Churches <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>accipiens ſtipendium,</hi> taking Wages, Salary, or corporal ſupplies of thoſe other Chuches,<note place="margin">2 <hi>Cor.</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>1.7, 8.</note> yet did Preach or do ſervice at <hi>Co<g ref="char:EOLhyphen"/>rinth.</hi>
+            </p>
+            <p>
+               <hi>Phil.</hi> 2.25. <hi>Epaphroditus</hi> (the <hi>Phillippians</hi> Meſ<g ref="char:EOLhyphen"/>ſenger) did Miniſter to <hi>Pauls</hi> wants, not pay him Tyths or a ſetled Maintenance; and the Church did communicate to his afflictions, ſending once and a<g ref="char:EOLhyphen"/>gain, as a gift not upon a yearly bargain and contract, but in time of need freely.</p>
+            <p>
+               <note place="margin">
+                  <hi>Phil.</hi> 4.14. &amp;c.</note>1 <hi>Theſ.</hi> 2.9. The Apoſtles laboured night and day, rather than they would be chargable to any, which holds forth four things. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>irſt, they were far from Hirelings to Preach the Goſpel. Secondly, they would not eat and live upon other mens labours. Thirdly, hereby it is evident, that it is not unfit, or unlawful for a Goſpel Miniſter to work and take ho<g ref="char:EOLhyphen"/>neſt pains with his body.<note place="margin">2 <hi>Theſ.</hi> 3.8, 9.</note> Fourthly, they thereby left a Preſident of thoſe Virgin times unto us of their practiſe, who were true Goſpel Miniſters, and although they had a power from God to take of their
+<pb n="25" facs="tcp:172142:14"/> hearers, yet they would not do it, becauſe of leaving <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ood enſample to follow.<note place="margin">
+                  <hi>Heb.</hi> 12.1. &amp;c.</note>
+            </p>
+            <p>And now ſeeing that Divine matter in Scriptures <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ords ſo great a cloud of witneſſes, let us lay aſide <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry weight, &amp;c. is it not the Lords work to undo heavy burdens, and to let the oppreſſed go free,<note place="margin">
+                  <hi>Iſa.</hi> 58.6.</note> and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t ye break every yoak? Let true Miniſters look un<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Jeſus our Law-maker, who endured the croſs, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s not aſham'd of his poverty in temporals, that ſo <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y may not faint in their minds, but truſt to him <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a Maintenance.</p>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> come next to anſwer ſuch humane matter which <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>illiam Prynne</hi> layes down for his plea, to uphold <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ths and a ſetled Maintenance for Miniſters.</p>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n <hi>Page</hi> 20. He pleads, if Miniſters be poor, they <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be contemptible, and leſs authoratative to the peo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <p>
+               <hi>Anſw</hi> He learn'd not this from Chriſt, who me in poverty, and ſo lived poor in temporals; for riches and outward pomp is eyed by the world, ſo <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hriſt came in oppoſition thereunto, yet bids us <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n of him, <hi>Mat.</hi> 11.29. who left us theſe examples part of his ſufferings; which the Apoſtles like<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e did partake of,<note place="margin">2 <hi>Cor.</hi> 8.9. 2 <hi>Cor.</hi> 6.10.</note> yet in all this poverty many were <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>de rich, wherein Chriſt our Law-maker, and his <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>oſtles, (the Goſpel Planters) neither ſought for <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es nor humane authori<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y to inſult over the people; at Miniſter which ſeeks to be rich, and bear autho<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> over the people,<note place="margin">
+                  <hi>Iam.</hi> 2.5. 1 <hi>Tim.</hi> 6.8. &amp;c.</note> hath not any Goſpel warrant for practiſe; neither doth God chuſe rich men for <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> outward pomp, but the poor, rich in faith: yea Apoſtle bids the man of God flee thoſe things as <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re, being content with food and raiment, 2 <hi>Tim.</hi>
+            </p>
+            <p>
+               <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ge</hi> 29. He reckons up large expenſes of Books, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ols <hi>Education, Terme of Years,</hi> &amp;c. to fit men for <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iniſtry.</p>
+            <pb n="26" facs="tcp:172142:15"/>
+            <p>
+               <hi>Anſw.</hi> All theſe make a carnal man no more <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tual, than a new ſuit of aparrel will make a dead to live again: indeed humane learning may do as a ſervant to attend in the ſpiritual work, but <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ry unfit for maſterſhip to command, yet many ſtrong opinions of it, as if none were fit for the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſtry but humane learned men; whereas <hi>Pauls</hi> ed<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>on at <hi>Gamaliels</hi> feet made him no Apoſtle, b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> call of God, <hi>Acts</hi> 22.3, 4. Neither was <hi>Moſes</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> from his Court breeding in <hi>Pharaohs</hi> Houſe to Prophet, but from being a Shepherd.</p>
+            <p>
+               <note place="margin">
+                  <hi>Deut.</hi> 34.10. <hi>Exod.</hi> 3.1.10.</note>
+               <hi>Page</hi> 41. And other places, he much inveig<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>gainſt Souldiers, Trades-men, and Lay-me<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Pre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ching, terming them ignorant Aſſes, underſtand not Rhetorick, and Elloquence.</p>
+            <p>
+               <hi>Anſw.</hi> In this he parallels the Jewiſh Rulers, looked on the Apoſtles to be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">
+                  <hi>Acts</hi> 4.13.</note> 
+               <hi>Idiots,</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>norant and unlearned men, calling the people confeſſed Chriſt, accurſed, <hi>Iohn</hi> 4.48, 49. as<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Phariſees and Rulers had believed on him<g ref="char:punc">▪</g> proud, rich fleſh, that was in power, had ingroſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wiſdome of God unto it ſelf, and ſo held it unf<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Fiſhermen, and other Tradeſ-men, ſhould firſt b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in Chriſt, and then declare to others what th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> learned or received from him.</p>
+            <p>In diverſe <hi>Pages</hi> as 11.17.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>8. &amp;c. he pleads mutative juſtice, how Miniſters ſhould have <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>pence, as o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her Merchants and Tradeſ-men, wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ter and ſell one commodity for another.</p>
+            <p>
+               <hi>Anſw.</hi> See what breaks forth unawares, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> deſcribes his Tradeſ-men, who Merchandize letter, what is learned by hearſay, but leſt <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be judged envious, I ſhall leave his expreſſions juditious Reader.</p>
+            <p>Page 44. He tells us, that Miniſters are n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> called by immediate inſpiration of God, b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="27" facs="tcp:172142:15"/> ſtudy night and day for what they Preach.</p>
+            <p>
+               <hi>Anſw.</hi> See how he is oppoſite to Scriptures,<note place="margin">
+                  <hi>Ioel.</hi> 2.18. <hi>Acts.</hi> 2.17. <hi>Mica.</hi> 4.1. <hi>Ier.</hi> 31.33.</note> which declare the abundant flowing forth of the Spirit in the latter dayes: Gods mountain to be exalted, and he writing his Law in Peoples hearts, and all taught of God, the Fountain opened for ſin and unclean<g ref="char:EOLhyphen"/>neſs; and the falſe Prophets to be aſhamed of their viſions, neither ſhall they wear a rough Garment to deceive, <hi>Zech.</hi> 13.1, 4. yea more is promiſed by the flowings forth of Gods Spirit, (which muſt be immediate from him,) to be done in theſe latter dayes, than of any other times: and the Apoſtle tells us,<note place="margin">
+                  <hi>Rom.</hi> 8.9.</note> if any man have not the Spirit of Chriſt he is none of his; whence note, if a man have this Spirit it muſt be immediate from God, ſeeing man can<g ref="char:EOLhyphen"/>not give it; but if he have it not, then ſuch a one can<g ref="char:EOLhyphen"/>not be a Miniſter of Chriſt, for he is none of his; therefore thoſe Miniſters not immedi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tely fitted, and ſent forth by this Spirit, are not of God, but of mens ſending, and how can they do the work of him that never ſet them?</p>
+            <p>When Chriſt called his Apoſtles, then they fol<g ref="char:EOLhyphen"/>lowed him, when he ſent them forth to Preach, they had authority to go and not before; and when <hi>Paul</hi> was called of God,<note place="margin">
+                  <hi>Gal.</hi> 1, 1, 16.</note> and had Jeſus Chriſt re<g ref="char:EOLhyphen"/>vealed in him, he conferred not with fleſh and blood, but went to preach the Goſpel unto the heathen; and we find no where that a ceſſation ſhould be of this Spirit, although the man of ſin hath a long time darkned the truth, and few have come forth in the perſecuting times by this ſpiritual power, yet the Lords Arme is not ſhortned, nor his Spirit drawn back; but he hath manifeſted himſelf herein, by ma<g ref="char:EOLhyphen"/>ny called forth to warn and forewarn, Rulers, Go<g ref="char:EOLhyphen"/>vernours, and others, in theſe latter dayes, of which I am to give notice from the Lord, That upon the
+<pb n="28" facs="tcp:172142:16"/> fourth day of the third moneth (called <hi>May</hi>) laſt, 1660. God ſhewed me that thoſe Meſſengers (cal<g ref="char:EOLhyphen"/>led <hi>Quakers</hi>) was ſent forth by him, and were to be owned as ſuch.<note place="margin">
+                  <hi>Luke</hi> 9.1.</note>
+            </p>
+            <p>Chriſt Jeſus Commiſſionated His Twelve Apo<g ref="char:EOLhyphen"/>ſtles to Preach, <hi>&amp;c.</hi> when he was with them in fleſh, yet they did not continue Preaching upon that authority after his death, but received a new commiſſion after his Reſurrection, when the veſ<g ref="char:EOLhyphen"/>ſel o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his body had been broken, and the Spirit which filled it was to be ſhed abroad,<note place="margin">
+                  <hi>Mat</hi> 12.18.</note> all power being gi<g ref="char:EOLhyphen"/>ven unto him, he then authorizeth them as a riſen conquerer, to go forth, yet they muſt not execute this commiſſion until it was ſealed by the Spirit of promiſe, which he ſhed on them abundantly, <hi>Acts</hi> 10.38. <hi>Epheſ.</hi> 1.13. <hi>Tit.</hi> 3.6. but this they muſt wait for at <hi>Ieruſalem,</hi>
+               <note place="margin">
+                  <hi>Acts</hi> 1.4. <hi>Acts</hi> 2.1.</note> until the Lords time, which they received at the day of Pentecoſt: where we may obſerve, how they waited in ſilence for this Spirit, not running forth to Preach upon a humane call, no not upon the firſt Commiſſion, although Chriſt gave it them, but they muſt tarry for a new, to Preach a Chriſt riſen from the dead, and riſen by his ſpiritual power in their hearts, when <hi>THE POWER OF GOD,</hi> had overpowered the Creature.</p>
+            <p>At <hi>Page</hi> 60. He ſtrives further, to make their examples in time of Temple Worſhip to be preſi<g ref="char:EOLhyphen"/>dents unto us, as to have the Souldiers give the tenth of the ſpoile unto the Prieſts now, as they did then, telling us, it was the opinion of Divines, Councils, and Canoniſts, at his 70. <hi>Page.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> The opinions of thoſe, might be men that would ſhare in the benefit thereof, and ſuch would ſeek their gain from their quarter, pleading for their own ends,<note place="margin">
+                  <hi>Iſa.</hi> 56.11.</note> but for this we have no Goſpel
+<pb n="29" facs="tcp:172142:16"/> example; ye there may be a plot, for if the Souldiers could be drawn to give the tenth part of the ſpoile unto the Prieſts, then it was not for the poor far<g ref="char:EOLhyphen"/>mer to contend, ſeeing the Prieſts Power might e<g ref="char:EOLhyphen"/>qualize the Popes, in <hi>Peters</hi> Keyes, and <hi>Pauls</hi> Sword; for what could not be effected for the Prieſts one way, the Sword might compel it another way; but everlaſting praiſes be to God who hath kept <hi>England</hi> out of this condition.</p>
+            <p>
+               <hi>Page.</hi> 88. He terrifies people with fears and dan<g ref="char:EOLhyphen"/>gers, if they refuſe to pay Tyths, alledging what be<g ref="char:EOLhyphen"/>fel <hi>Jeroboam</hi> in ſix evils, for ſpoiling the Prieſts and Levites poſſeſſion.</p>
+            <p>
+               <hi>Anſw.</hi> He in ſo doing oppoſed the Law of God, and ſo the Lord puniſhed him accordingly; but Chriſt gave us no law for ſuch a Maintenance, therefore our ſin would be the greater if we ſhould pay it, and three evils would be committed: as pa<g ref="char:EOLhyphen"/>ralelling <hi>Jeraboams</hi> practiſe, firſt he went the wrong way of Worſhip, and ſo do thoſe that own ſuch to be Goſpel Miniſters, which are not called of God thereunto, yet force a Maintenance for them, con<g ref="char:EOLhyphen"/>trary to the Goſpel practiſe; Secondly, He made Prieſts of the worſer people, and ſo do thoſe that take ſuch Miniſters which are but carnally minded, and Preach for gains. Thirdly, He ſhut out the Lords Prieſts, and ſet up Prieſts of his own chu<g ref="char:EOLhyphen"/>ſing; and ſo do they that refuſe Teachers called of God, becauſe they are Tradeſ-men; and ſet up of their own choice, becauſe they have humane learning. All which cauſed ruin on <hi>Jeroboam's</hi> Poſterity; and this I am to give warning unto <hi>England's</hi> Powers, that until Tyths and other oppreſſions be taken a<g ref="char:EOLhyphen"/>way, and Gods Laws made our Laws, both with<g ref="char:EOLhyphen"/>in us, and without us, the Lord will keep overtur<g ref="char:EOLhyphen"/>ning, and bring deſolation if there be no amend<g ref="char:EOLhyphen"/>ment.</p>
+            <pb n="30" facs="tcp:172142:17"/>
+            <p>
+               <hi>Page</hi> 113. He again ſets forth his Miniſtry as Hirelings, and that accordindly they ſhould have Hire.</p>
+            <p>
+               <note place="margin">
+                  <hi>Iohn</hi> 10.13.</note>
+               <hi>Anſw.</hi> See his own confeſſion, and a Hireling careth not for the Sheep, but for the fleece and gains; yet we agree to maintain thoſe Miniſters which God ſends, and the Saints own, being called, and re<g ref="char:EOLhyphen"/>warded according to Goſpel Law; but to Force, Compel, Pull, Tear, Impriſon, Perſecute, &amp;c. a<g ref="char:EOLhyphen"/>bout Religion to make Chriſtians, by bringing them into ſuch a ſet form, and then to do the like to hurry them into that form, or elſe to puniſh thoſe that re<g ref="char:EOLhyphen"/>fuſe it, was never taught us in Scriptures.</p>
+            <p>
+               <hi>Page</hi> 138. He tells us there are three ſorts of Prieſts, Firſt, every ſanctified Chriſtian for his fa<g ref="char:EOLhyphen"/>mily. Secondly, The publick (or national Prieſt) Thirdly, Chriſt Jeſus.</p>
+            <p>
+               <hi>Anſw</hi> If a man be ſanctified to act as a Prieſt in his Family, where did God forbid him to do the like amongſt other believers?<note place="margin">1 <hi>Pet.</hi> 2.5, 9. <hi>Revel.</hi> 1.6. <hi>Rev.</hi> 5.10.</note> the holy Ghoſt tells us how the ſanctified ones are a royal Prieſt-hood, which ſhould ſhew forth Gods Praiſes: yea Kings and Prieſts to Reign with him on Earth; ſo the Lord makes no ſuch diſtinction, as <hi>W. P.</hi> doth, but by the Holy Ghoſt informs us, how all the Saints have liberty to propheſie (or <hi>Preach</hi>) one by one.</p>
+            <p>The Verb <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Anuntio</hi> or <hi>Praedico,</hi> ſig<g ref="char:EOLhyphen"/>nifieth to Preach, Shew, Tell, Publiſh, or Declare; and thus the Prieſt-hood of Saints ſhould ſhew forth Gods Praiſes,<note place="margin">1 <hi>Pet.</hi> 1.9.</note> &amp;c. and this may be done two wayes, Firſt, by ſpeaking; Secondly, by writing; and this <hi>W. P.</hi> would not have every ſanctified Chriſtian to do publickly, but the Pariſh Prieſt ſhould do it: now according to his own law, if none but pariſh Prieſts may ſhew or declare theſe things in publick, then
+<pb n="31" facs="tcp:172142:17"/> why doth he declare them publickly by writing, ſee<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng he makes no ſuch profeſſion to be a publick Prieſt? Thou art in excuſable O man—for where<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n thou judgeſt another,<note place="margin">
+                  <hi>Rom.</hi> 2.1.</note> thou condemneſt thy <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elf.</p>
+            <p>
+               <hi>Page</hi> 145. He pretends to anſwer <hi>William Thorps</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rgument; how in the times of the Apoſtles, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or 200. or 300. Years after, they received no Tyths for Preaching, but lived upon the peoples alms <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd voluntary contributions.</p>
+            <p>
+               <hi>Anſw.</hi> This <hi>W. P.</hi> cannot deny, but uſeth eva<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſions and ſtories to get from it, yet none of them <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll can contradict it, but that <hi>William Thorp</hi> ſayes <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rue in it, which agrees with Scriptures, for the A<g ref="char:EOLhyphen"/>poſtles did ſo in what they took by alms and volun<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ary contribution, but no compulſion by any hu<g ref="char:EOLhyphen"/>mane law whatſoever was then uſed; ſo the new divice for Setling and forceing a Maintenanee for Miniſters was none of the foundation upon Chriſt the Corner Stone; but when Antichriſt crept in, he <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aught the Prieſts, Pride, Idleneſs, and Fulneſs,<note place="margin">
+                  <hi>Epheſ.</hi> 2.20.</note> which could not be maintain'd but by covetouſneſs <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd oppreſſion; ſo firſt they obtain'd a ſetled Main<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enance, and after that by degrees, gain'd a power al<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o to inforce it by violence; all which was againſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Goſpel practiſe.</p>
+            <p>His Book having two parts, I have done with the <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rſt, and now come to the ſecond, to view ſome <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>umane matter therein alſo contained, yet ſome<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hing he hath by way of appendix about <hi>Melcheſe<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ech,</hi> and his proof is the opinions of <hi>Petrus Cuneus</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd <hi>Griffith, Williams,</hi> which being but Opinion I <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hall wave it.</p>
+            <p>At <hi>Page</hi> 7. He is about Authors, Fathers, Hi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ories, and other humane Writers, old and new to <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nfirm his plea, yea he proceedeth to <hi>Pagan Ro<g ref="char:EOLhyphen"/>mans,
+<pb n="32" facs="tcp:172142:18"/> Heathens Arabians, Carthaginians,</hi> &amp;c. tel<g ref="char:EOLhyphen"/>ling us, <hi>page</hi> 11. how thoſe that vowed their Tyth<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to <hi>Jupiter, Apollo,</hi> &amp;c, in doing of it had a plen<g ref="char:EOLhyphen"/>tiful crop, and <hi>page</hi> 12. tells of <hi>Demoſtens</hi> the <hi>Pagan</hi> who reproved thoſe that did rob (the faigned god<g ref="char:EOLhyphen"/>deſs) <hi>Minerva,</hi> of her tenths, &amp;c. and of tenths t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Apollo</hi> and <hi>Diana,</hi> with the Temple and Alta<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for her worſhip, running divers pages on this ac<g ref="char:EOLunhyphen"/>count.</p>
+            <p>
+               <hi>Anſw.</hi> Theſe things are far from a Goſpel ple<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> more fitter to be reprehended, than recorded fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Chriſtians to take examples by, ſeeing the Scripture ſhould be our guide.</p>
+            <p>
+               <hi>Page</hi> 22. He pretends a ſetled Maintenance fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Miniſtry, from the Creation to this preſent; and th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it muſt be by Tyths.</p>
+            <p>
+               <hi>Anſw.</hi> He now contradicts himſef in what <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> granted; that in the Goſpel planting no Tyths we<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> paid amongſt Chriſtians for the firſt 200. or 30<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Years, neither do we read in Scriptures that ev<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Tyths were ſetled or commanded of God until t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Livitical Law; and then he gave that order unto t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Jews only, and to no other, which was many hun<g ref="char:EOLunhyphen"/>dred years after the Creation, until which time <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> read of none that paid Tyths, but <hi>Abraham</hi> once in voluntary act, by way of congratulation, when <hi>Me<g ref="char:EOLunhyphen"/>cheſedech</hi> brought bread and Wine,<note place="margin">
+                  <hi>Gen</hi> 14.18</note> and bleſſed hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> but herein we may behold, how he wreſts the Scri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tu es, according to the Apoſtles expreſſion.</p>
+            <p>
+               <note place="margin">2 <hi>Pet.</hi> 3 16.</note>
+               <hi>Page</hi> 26. He proceeds to tell us how Tyths m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be inforced upon refuſers by coercive Laws, &amp;c. Troopers hold their Horſes with Bits and Bridl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and quickned with Spurs, when lazie; and as Sh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>herds their Sheep with doggs and hooks, &amp;c.</p>
+            <p>
+               <hi>Anſw.</hi> By this we may ſee what cruelty ratio<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> creatures would uſe one towards another, if <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="33" facs="tcp:172142:18"/> Higher Powers would ſuffer it, as appears by his expreſſions, even as to Horſes, <hi>&amp;c.</hi> Surely the man forgets himſelf what he ſaw once and ſuffered under prelacy, that now by a humane Law, would thus Tyrannize over his fellow creatures, without any authority from the Lord; remember that place, <hi>Mat.</hi> 18.28. It is hard meaſure when a man releaſed out of Priſon, ſhall begin to pull his fellow by the throat, and ſhew no compaſſion.</p>
+            <p>
+               <hi>Page</hi> 43. He preſents us with a <hi>Catalogue</hi> of <hi>Englands Laws</hi> made for <hi>Tyths,</hi> which have been ma<g ref="char:EOLhyphen"/>ny.</p>
+            <p>
+               <hi>Anſw.</hi> What was done in times of <hi>Ignorance God wincked at,</hi>
+               <note place="margin">
+                  <hi>Acts</hi> 17.30.</note> but when he ſhines upon a Nation by the clear Goſpel Light of Chriſt, he wills men to repent, and come out of that darkneſs. It was for<g ref="char:EOLhyphen"/>merly with <hi>England,</hi> as to <hi>Iſrael in Egypt,</hi> under dark diſpenſations; and although <hi>Joſeph</hi> of <hi>Arima<g ref="char:EOLhyphen"/>thea</hi> might plant a true Church here, yet Antichriſt ſoon crept in, as appears by the after ſetting up of <hi>Popery,</hi> and compulſion unto ſet forms by the Cler<g ref="char:EOLhyphen"/>gy, who condemned the witneſſes in ſeveral ages that God raiſed up againſt ſuch traditions, ſenten<g ref="char:EOLhyphen"/>cing them for <hi>Hereticks;</hi> the Clergy Power over<g ref="char:EOLhyphen"/>ſwaying in Councils, Synods, <hi>&amp;c.</hi> Whereby they inſulted over Governours, and Magiſtrates preten<g ref="char:EOLhyphen"/>ding to have <hi>Peters</hi> Keyes in remitting, and ſending to Hell at their pleaſure; ſo that where oppoſition was made againſt them, they perſecuted, making Magiſtrates often times as their ſlaves, being over<g ref="char:EOLhyphen"/>ſwayed as <hi>Pilate</hi> was by the High Pprieſt in cru<g ref="char:EOLhyphen"/>cifying Chriſt, of which things the Apoſtle foretold, how grievous Wolves ſhould offend the Church.<note place="margin">
+                  <hi>Acts</hi> 20.29.</note>
+            </p>
+            <p>Formerly <hi>Englands</hi> layety was in much ignorance of Scriptures, the then Clergy agreeing, that Lay men ſhould not meddle with the meaning thereof,
+<pb n="34" facs="tcp:172142:19"/> ſo concerning things of Religion, the Clergy ſwayed as they liſted, although <hi>Kings</hi> and <hi>Parliaments</hi> made Laws, yet no Law would be allowed of by them, againſt Prieſtly Power and Maintenance: yet afterwards when the light did ſhine more forth in Queen <hi>Elizabeths</hi> dayes; things of worſhip muſt be done as the Clergy would have it, ſo take away the Popiſh Power, and Maſs Book, if a prelatical pow<g ref="char:EOLhyphen"/>er may remain, and the <hi>Diana</hi> of Tyths continue: and how did the late uſurping <hi>Protector,</hi> congluti<g ref="char:EOLhyphen"/>nate the Clergy unto himſelf, but by augmenting their Maintenance,<note place="margin">
+                  <hi>Acts</hi> 19.24.</note> and continuing the old Laws to inforce the ſame, by Tyths, &amp;c. as formerly.</p>
+            <p>
+               <hi>Jehu</hi> boaſted to <hi>Iehonadab</hi> of his zeale, deſtroyed the Houſe of <hi>Ahab,</hi> and ſlew <hi>Baals</hi> Prophets, yet he would not truſt God with his cauſe in the peoples Worſhip to go up to <hi>Ieruſalem,</hi>
+               <note place="margin">2 <hi>King.</hi> 10.11.15. ver. 25.29.</note> but left the Calves in <hi>Dan</hi> and <hi>Bethel,</hi> as the old ſnare unto <hi>Iſrael</hi> from the time of <hi>Ieroboam</hi> 1 <hi>King.</hi> 12.26, 27, 28. So Prelacy would demoliſh <hi>Popery,</hi> and <hi>Presbytery</hi> would overthrow <hi>Prelacy,</hi> conditionally an outward Clergy power may hold, &amp; the old Setled, Forced, <hi>Po<g ref="char:EOLhyphen"/>piſh</hi> Maintenance continue, for they dare not truſt God in this caſe of Maintenance, taking it in the pure Goſpel manner, by a free contribution, as the Apo<g ref="char:EOLhyphen"/>ſtles took it, but they will go beyond the Lord and his Stewards, and Embaſſadours which himſelf im<g ref="char:EOLhyphen"/>ployed in his Goſpel work.</p>
+            <p>Note Reader, this ſad ſtory of Religion, how <hi>Iehu's</hi> practiſe is ſtill followed, where ſuch a Miniſtry will eat &amp; deſtroy the name of one another, as <hi>Ieh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> did the Houſe of <hi>Ahab,</hi> and yet he and other Kings in <hi>Iſrael</hi> to continue the ſins of <hi>Ieroboam,</hi> ſo for <hi>Pre<g ref="char:EOLhyphen"/>lacy</hi> to eat out <hi>Popery,</hi> and <hi>Presbyters</hi> to eat out <hi>Prelacy,</hi> &amp;c. and yet the <hi>Idol</hi> of Tyths to continue, which draws ſo many unto that office; what is all this but <hi>Iehu's</hi> practiſe ſtill continued?</p>
+            <pb n="35" facs="tcp:172142:19"/>
+            <p>I confeſs ſince Queen <hi>Elizabeths</hi> time, many things have been ſweetly manifeſted, and divers wit<g ref="char:EOLhyphen"/>neſſes according to the preſent diſcoveries have given forth their Teſtimonies: but to be wondred at, we may obſerve, that wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hin theſe laſt twenty years, there hath been more diſcoveries made of Goſpel Myſte<g ref="char:EOLhyphen"/>ries, th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n was by all the <hi>Engliſh</hi> Chergy, for live hundred years before,<note place="margin">1 <hi>Cor.</hi> 1.2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. &amp;c.</note> unto which work not many mighty were called, but God made uſe of weak low inſtruments for this purpoſe, ſo that oppoſers may like thoſe deſpiſers,<note place="margin">
+                  <hi>Acts</hi> 13.41.</note> wonder at this great work of God.</p>
+            <p>Yet <hi>W. P.</hi> Is not aſhamed to ſet them forth by the Names of <hi>Fryars, Ieſuits, Seminary-Prieſts, Seekers<g ref="char:punc">▪</g> Gifted Brethren, Dippers, Quakers, New-Lights, Troopers, Souldiers, Mechanicks, Anabap<g ref="char:EOLhyphen"/>tiſts, Impious, Atheiſts, Buff-Preachesrs, Antitri<g ref="char:EOLhyphen"/>nitarians, Antiſcriturians, Blaſphemous Sectaries, Hereticks, New Illuminates, Ranters, Itinery, Pro<g ref="char:EOLhyphen"/>dicants, Inſpired Brethren,</hi> &amp;c. As may appear in almonſt forty Pages, In his firſt part, 36. 41. 43. 57. 81. 98. 102. 116 117. 119. 126. 131. 133. 134. 135. 143. &amp;c. And in his ſecond part the Title Page, and Pages there, the 3. 22. 44. 37 47. 52. 66. 74. 81. 87. 90. 96. 116. 126 127. 141. 147 <hi>&amp;c</hi> Venting himſelf again the People of God,<note place="margin">
+                  <hi>Luke</hi> 16.14. <hi>Mark</hi> 6.3.</note> in which he immitates the covetous <hi>Phariſees</hi> that derided Chriſt; (and what is done to believers, is as done to their Maſter, <hi>Mat.</hi> 25.40.45.) They called his Pedigree to account, Is not this the Carpenter— being offended at him, yea both the Prieſts and Temple Captain was grieved becauſe <hi>Peter</hi> and <hi>John</hi> the Fiſhermen taught the people.<note place="margin">
+                  <hi>Acts</hi> 4.1.2.</note>
+            </p>
+            <p>But what if we find a traitorous <hi>Iudas</hi> amongſt the Twelve,<note place="margin">
+                  <hi>Acts</hi> 8.9.13.</note> and <hi>Simon</hi> the Sorcerer amongſt the Diſciples Baptiſed: Is it equity to call them all
+<pb n="36" facs="tcp:172142:20"/> ſuch? or what if a Seminary Prieſt creep in amongſt thoſe called <hi>Quakers?</hi> or a Ieſuit takes upon him the form of a <hi>Baptiſt?</hi> There is no juſtice to re<g ref="char:EOLhyphen"/>proach the whole ſociety with the names of <hi>Sorce<g ref="char:EOLhyphen"/>rers, Traitors, Ieſuits,</hi> &amp;c. or if a <hi>Whoremaſter</hi> ſhould be found in his Pariſh, he would not think him an honeſt man that ſhould affirm they were all ſuch: Therefore it had been better to have firſt learned the royal Law,<note place="margin">
+                  <hi>Mat.</hi> 7.12.</note> 
+               <hi>whatſoever ye would that men ſhould do to you, do ye EVEN SO to them</hi> &amp;c.</p>
+            <p>
+               <hi>Page</hi> 60. He yields there was no penal <hi>Laws</hi> in<g ref="char:EOLhyphen"/>forcing <hi>Tyths,</hi> in the primitve and pureſt times of the Goſpel, for 500 years after Chriſt, yet he e<g ref="char:EOLhyphen"/>vades this, by telling us, there was no preſident in Scriptures for High <hi>Courts</hi> of <hi>Iuſtice, Martial,</hi> &amp;c.</p>
+            <p>
+               <hi>Anſw.</hi> It ſeems by his Anſwer to the Objection page 61. that he underſtands not the difference be<g ref="char:EOLhyphen"/>twixt a Law for ſpiritual things made by the Lord, and a Law for temporal things made by the creature Concerning ſuch Courts that reach but to the body and eſtate, the Power of a Nation may ſet up, ſo they be not oppreſſive, although there is no Scripture for it; as a National power may make a Law for repairing of high wayes, and puniſh offenders that refuſe to do the ſame; but this is no warrant there<g ref="char:EOLhyphen"/>fore, that the powers of a Nation may amend, or change the wayes of God, where his Goſpel way is a free contribution for Miniſters, that men ſhould in ſuch a caſe, amend or change the ſame way to Tyths and a ſetled Maintenance: hence then obſerve, that where the Lord hath made a law, or left us preſidents or examples what to do in ſpritual duties, it is alto<g ref="char:EOLhyphen"/>gether unſafe for man to pull down Gods Law, and ſet up a humane Law, doing as the <hi>Iews,</hi> which made the Commandment of God,<note place="margin">
+                  <hi>Mat.</hi> 15.6.</note> of none effect by their
+<pb n="37" facs="tcp:172142:20"/> tradition, therefore as the true Miniſterial work is the Lords, and is a ſpiritual work, ſo let that ſpiri<g ref="char:EOLhyphen"/>tual God command it, and by his Law rule and go<g ref="char:EOLhyphen"/>uern it; but what is temporal, and given to the crea<g ref="char:EOLhyphen"/>ture, let man content himſelf therewith, not reach<g ref="char:EOLhyphen"/>ing beyond the power which God hath given him.</p>
+            <p>
+               <hi>Page</hi> 82. He tells us <hi>Tyths</hi> are no <hi>burthen, grie<g ref="char:EOLhyphen"/>vance,</hi> or <hi>oppreſſion</hi> to thoſe that pay them, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> They are a burthen and grievance to the conſcience, to act in paying Tyths againſt the Goſpel Law, and Goſpel practiſe, for thereby many true Saints are forced to ſin againſt God, &amp; their conſci<g ref="char:EOLhyphen"/>ences, in giving away the tenth part of what they have toyled for,<note place="margin">
+                  <hi>Prov.</hi> 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 14.</note> or elſe they ſhall not enjoy their outward quietneſs, and a wounded ſpirit who can bear; and the oppreſſion alſo is exceſſive; for if a man have Land worth 3. <hi>s.</hi> the Acre by the year, which he clears and improves upon his own meer charges, to beſtow 10. <hi>s.</hi> the Acre in coſt and labour upon it, the Tyth-takers will have the tenth of it all, if there be but his ſeed again, and ſo therein he takes Tyth of all the charge, of all the ſervants labours of the Cattels labour, of all other charges, and of the; ſeed Tythed the year before, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Page</hi> 86. He tells us that aboliſhing <hi>Tyths</hi> will be no eaſe to <hi>Tenants,</hi> hut gains to <hi>Landlords,</hi> who thereupon will raiſe their <hi>Rents.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> This contains a ſum of his ſixt Query, and is there enlarged.</p>
+            <p>
+               <hi>Page</hi> 113. He tells us that Tyth oppoſers do it not out of <hi>Piety</hi> or <hi>Conſcience,</hi> but meerly from <hi>Baſe Covetous Carnal Hearts.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> This he aſſerts here, and then in his eight Query demands if it be not ſo.</p>
+            <p>In divers places he pleads the antiquity of Tyths, to be of old ſtanding, and therefore to be continued.</p>
+            <pb n="38" facs="tcp:172142:21"/>
+            <p>
+               <hi>Anſw. Drunkenneſs</hi> may be proved from <hi>Noah; Adultery</hi> from <hi>David: Idolatry</hi> from <hi>Solomons</hi> time, <hi>&amp;c.</hi> yet they are not good becauſe they are old: but if he had ſaid the antiquity, (or oldneſs) of <hi>Po<g ref="char:EOLhyphen"/>pery; Tytbs,</hi> and the <hi>Maſs-book,</hi> makes them good, his plea had been as weighty.</p>
+            <p>He complains that thoſe, which he ſo often re<g ref="char:EOLhyphen"/>proacheth, have not wrote againſt <hi>Ieſuits, Ro<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s E<g ref="char:EOLhyphen"/>miſſories,</hi> &amp;c.</p>
+            <p>
+               <hi>Anſw.</hi> He h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ving no juſt plea againſt them, would now caluminate their perſons deviſing devi<g ref="char:EOLhyphen"/>ces to ſtain their reputation,<note place="margin">
+                  <hi>Ier.</hi> 18.18. <hi>Acts</hi> 6.12.1.</note> by <hi>Ieſuits,</hi> &amp;c. as the <hi>Iews</hi> did to <hi>Ieremiah,</hi> and <hi>Steven:</hi> but the pure peo<g ref="char:EOLhyphen"/>ple of God own no <hi>Ienſit,</hi> &amp;c. yet poſſible it is for ſuch a one to creep in, and not be found out at pre<g ref="char:EOLhyphen"/>ſent, yea to have divers falſe Members, form in the outward, and not diſcovered ſuddainly, as <hi>Iudas</hi> amongſt the twelve, <hi>Simeon</hi> the Sorcerer amongſt the Diſciples, &amp;c. ſo to have d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ceivers creep in with the people of God is no new thing.</p>
+            <p>He often ſtikes at one <hi>Iohn Canne</hi> by reproaches, ſcoffs, &amp;c. upbraiding him by being an exciſe man, &amp;c.</p>
+            <p>
+               <hi>Anſw.</hi> I know neither of you by face, but may not an Exciſe man be a Diſciple as well as a Cu<g ref="char:EOLhyphen"/>ſtome-taker:<note place="margin">
+                  <hi>Luke</hi> 5.27</note> It is evident how God looks upon the preſent condition, Who ſhews his eſteem of former works both good and bad, <hi>Ezek.</hi> 18.26, 27. And when the Lord will rec<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ive Publicans in mercy, why ſhould the ſelf juſtifying <hi>Phariſees,</hi> blame him be<g ref="char:EOLhyphen"/>cauſe they had been ſinners? <hi>Mary Magdalen</hi> was a ſinner,<note place="margin">
+                  <hi>Luke</hi> 15.1.2. <hi>Mark</hi> 16.</note> but the ſeven Devils being caſt out, ſhe be<g ref="char:EOLhyphen"/>came a true convert unto whom Chriſt firſt appear<g ref="char:EOLhyphen"/>ed after he was riſen from the dead.</p>
+            <p>What if I had been a Shepherd like <hi>Moſes,</hi> A Threſher of Wheat like <hi>Gedeon,</hi>
+               <note place="margin">
+                  <hi>Exod.</hi> 3.1. <hi>Iude</hi> 6.11.</note> a Plow man like
+<pb n="39" facs="tcp:172142:21"/> 
+               <hi>Eliſha,</hi> 1 <hi>King</hi> 19.19. A Herd-man like <hi>Amos,</hi> 7.14, 15. A Tent-maker like <hi>Paul;</hi> a Fiſher-man like <hi>Peter, James,</hi> and <hi>John;</hi> yea if I were a Cobler or a Tinker, muſt I not therefore obey Gods call, to an<g ref="char:EOLhyphen"/>ſwer <hi>W. P.</hi> becauſe of an outward mean imploy<g ref="char:EOLhyphen"/>ment? The Prieſts and Phariſees liked well of <hi>Paul,</hi> when he took their parts in perſecuting, but becoming a convert, they were like mad men againſt him:<note place="margin">
+                  <hi>Acts</hi> 22.4.22.</note> The fleſh of <hi>Dives</hi> was richly clad and fed, looking loftily over the fleſh of <hi>Lazarus;</hi> but although fleſh makes ſuch difference, God looks on high and low alike, to call unto, or imploy in his work, be they Iews or Gen<g ref="char:EOLhyphen"/>tiles, Learned, or Unlearned, he reſpects not Perſons, nor eyes his ſpiritual gifts any more to a Univerſitie Scholler, than to poor wretch that beggs at the door,<note place="margin">
+                  <hi>Acts</hi> 10.34.</note> and if Gods call, and Gods ſpiritual gifts beſtowed, make the fitteſt Perſons for Goſpel Miniſters, then envy not mean men becauſe they receive the ſame, <hi>let not thine eye be evil, ſeeing God is good;</hi> as to make him, that was leaſt, and laſt in learning,<note place="margin">
+                  <hi>Mat.</hi> 20.14, 15.</note> to be equal with the firſt.</p>
+            <p>Having paſſed his ſecond part, he makes a Poſt<g ref="char:EOLhyphen"/>ſcript, how Canutus King of <hi>Denmark,</hi> would have his people to pay Tyths, but his brother Olaf and the People refuſed, and ſlew <hi>Canutus,</hi> but preſently fol<g ref="char:EOLhyphen"/>lowed a great ſcarcity of corn, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> God ſometimes ſends judgments on men after good performances, thereby to prove their faith<g ref="char:EOLhyphen"/>fulneſs in the work, as <hi>Job</hi> 1.5.14. having Sacrifi<g ref="char:EOLhyphen"/>ced, had divers tydings of ſeveral miſeries to try him. <hi>Abraham</hi> lived with his kindred in <hi>Haran,</hi> and God bid him depart thence to <hi>Canaan,</hi> where he ſtayed but a time, and then came a Famine,<note place="margin">
+                  <hi>Gen.</hi> 12.1. &amp;c.</note> that he left that Land, and went into <hi>Egypt</hi> where he denyed his Wife, <hi>&amp;c.</hi> now the carnal man might reaſon it thus, <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> was not content to live with his Father, but would
+<pb n="40" facs="tcp:172142:22"/> be of a new ſect in <hi>Canaan</hi> pretending God calld him thither, but now you may ſee God againſt him, dri<g ref="char:EOLhyphen"/>ving him out thence into <hi>Egypt</hi> for a little victuals, <hi>&amp;c.</hi> ſo if the ſtory of <hi>Canutus</hi> be true, there might be a work in it, as in that of <hi>Abraham,</hi> which the natu<g ref="char:EOLhyphen"/>ral man perceives not.</p>
+            <p>
+               <hi>Page</hi> 149. He ſets down his admonition, <hi>&amp;c.</hi> whoſe ſcoffs and mocks therein, I ſhall leave to each Chriſtian beholder, who may conſider whether they are badges of the fleſh or of the Spirit, demanding this queſtion, whether mocks and malice, are ſuitable in a profeſſor.</p>
+            <p>One thing I had almoſt paſſed by, which is the de<g ref="char:EOLhyphen"/>ſcription of <hi>W. P</hi>'s ſufferings in the front of his book, wherein I note, firſt his picture is ſet by his ſuf<g ref="char:EOLhyphen"/>ferings, which was neither the practice of Chriſt, not his Apoſtles, ſecondly, <hi>Pauls</hi> ſufferings are ſet under<g ref="char:EOLhyphen"/>neath his ſufferings,<note place="margin">2 <hi>Cor.</hi> 11.23, &amp;c.</note> yet I eſteem <hi>Pauls</hi> the worthieſt; Thirdly, verſes are added, as to illuſtrate the ſhew, which the Apoſtles did not, but went away rejoycing that they were counted worthy to ſuffer ſhame for Chriſt Ieſusr Fourthly, on each ſide his picture, ſtands a coat of Arms or Creſt,<note place="margin">
+                  <hi>Acts</hi> 5.41.</note> as if the ſhell, or the Creatures picture therein, or ſuch like dead things did ſuffer alſo, which outward inanimate figures to ſet forth mans ſufferings, have no warrant in Scriptures, nor any ſuch examples left us from Chriſt nor his Apoſtles.</p>
+            <p>He concludeth with ten Queries made out of the matter in his Book, therefore a ſhort anſwer may ſerve to each of them, thus abreviated.</p>
+            <p n="1">1. He Queries, if divers poor Petitioners againſt Tyths, are not fitter to be puniſhed as factious, than encouraged as zealous, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Gods Goſpel Law, doth not allow Tyths to us Gentile Churches, therefore thoſe that oppoſe them, ſhew the more loyalty to our Lord and his Law,
+<pb n="41" facs="tcp:172142:22"/> for which they ought not to be puniſhed, but encoura<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed for their obedience.</p>
+            <p n="2">2. He Queries if Petitioners againſt Tyths be <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot greater enemies to the Miniſters, than the Tyths, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd ſo fitter to be baniſhed, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> If he knows any to be ſo, let him diſcover <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem, and their envy fall upon themſelves; it is the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ord ſearcheth the heart,<note place="margin">
+                  <hi>Ier.</hi> 17.10.</note> and will reward accordingly <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut here he ſhews his own envy and cruelty; firſt he Queries, and then gives judgment, before he knows <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hether it be thus or not, whoſe ſentence is perſecuter <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke, from before in puniſhment, he is now come to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aniſhment: O Sir the Goſpel work is a work of mercy.</p>
+            <p n="3">3. He Queries if there be not above 100. Religi<g ref="char:EOLhyphen"/>ous Perſons, <hi>&amp;c.</hi> lyable to pay Tyths, and deſire <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he continuance thereof.</p>
+            <p>
+               <hi>Anſw.</hi> I queſtion not but above 100. Religious Perſons joyned with <hi>Aaron</hi> in the Calf, all which made <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, no God, and there might be above 100.<note place="margin">
+                  <hi>Exod.</hi> 32.</note> Perſons <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f quality conſent to <hi>Jehu</hi> for continuing the <hi>Idols</hi> in <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an</hi> and <hi>Bethel,</hi> which they could plead antiquity <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or, as ſome have done for Tyths,<note place="margin">2 <hi>King</hi> 16.29. <hi>Mark</hi> 7.3. &amp;c.</note> yet all theſe and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he <hi>Jewiſh</hi> traditions, were againſt the Lord, ſo it is <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot the Number, Goodneſs, or wiſdome of the Crea<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ure, will make ſuch a Law good, which Gods Law <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ill not hold forth.</p>
+            <p n="4">4. He Queries if the down-fall of Tyths, will not <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e a bteach of <hi>Englands Charter,</hi> &amp;c.</p>
+            <p>
+               <hi>Anſw.</hi> Concerning Free-men, Free-holds, or <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther Tenures, <hi>&amp;c.</hi> as alſo Cuſtomes, Mannors, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ents, and the like in temporal things to a temporal <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe and end, may be in <hi>Englands Charter,</hi> but for <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yths and Miniſters Maintenance, we have Gods <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>harter,</hi> which was made before, and according to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aw, the firſt Deed and Statute ſtands in force until
+<pb n="42" facs="tcp:172142:23"/> another be made that commands or nulls the form<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſo here is Gods <hi>Charter</hi> firſt by a Goſpel Law, wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> allows no Tyths, nor any ſetled Maintenance Goſpel Miniſters, but Peoples free contribution m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> long before <hi>Englands Charter,</hi> from whence I c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>clude, he that enforceth Tyths on Gentile Church makes a breach in the Goſpel <hi>Charter,</hi> and as <hi>W. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> pretends he that refuſeth to pay Tyths, breaks <hi>En<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>lands Charter,</hi> which I cloſe with that of the Apoſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> whether it be right in the ſight of God to hearken u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you,<note place="margin">
+                  <hi>Acts</hi> 4.19.</note> more than unto God; Judge ye.</p>
+            <p n="5">5. He Queries if <hi>Iohn Canne</hi> and other Tyth op<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſers, ſhould not have proved their proceeding agai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Tyths by Scriptures, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> The Lord hath called me to do it.</p>
+            <p n="6">6. He Queries if Tyths be taken away, wher<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they may not be doubled in other Taxes, or raiſed Land-lords Rents, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> It matters not, for the goods it ſelf, wel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not upon that, but the ſin and ſnare it brings uppon in paying it to ſuch a uſe and end, both againſt Goſpel Law, and our own conſciences, let them doubled or trebled in a temporal work, I hope Sai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> will not regard that, if God be not diſhonoured the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by.</p>
+            <p n="7">7. He calls Tythe deniers, giddy pated, <hi>&amp;c.</hi> and queries if it be not a moſt arrogant, inexcuſa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> high Preſumption, <hi>&amp;c.</hi> of ſuch, adding ſomething his old matter about <hi>Abraham;</hi> and of Gods in<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tuting them, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Anſw</hi> This query is but Abbreivate of his long f<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> about <hi>Abrahams</hi> paying Tythes, <hi>&amp;c.</hi> which was <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> anſwered before, therefore I ſhall avoid Tautolog<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> only this I ſhall remind you of, Firſt how none <hi>Abraham</hi> ever paid Tythes before the Levitical <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> being once done in a Voluntary way, ſecondly how
+<pb n="43" facs="tcp:172142:23"/> People in the World was ever commanded of God to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y Tythes, but the Jews only, thirdly how the Vir<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in Goſpel Churchs never took Tythes of any, or <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aid any, nor demanded any; fourthly how there was <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o kind of ſetled Maintenance then for any Goſpel Mi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſters: fifthly note how forcing unto forms, and com<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elling of Maintenance, were all from <hi>Rome,</hi> when the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eaſt like power got the Victory, ſix<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hly ſee how far <hi>William Prynne</hi> is from a Goſpel plea, that hath no Goſpel whatſoever to prove that which he pretends.</p>
+            <p n="8">8. He queries of Faith and piety in Tythe refuſers, <hi>&amp;c.</hi> but ends with a farther miſery then puniſh<g ref="char:EOLhyphen"/>ments, and Baniſhment; he alſo runs much upon <hi>Abraham</hi> voluntary act of giving Tythes, queſtioning <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f oppoſers may not come to Hell Torments for <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t.</p>
+            <p>
+               <hi>Anſw.</hi> Faith and piety conſiſt not in a work oppo<g ref="char:EOLhyphen"/>ſite to the Goſpel: but theſe things he aſſerted before, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd now he queries if it be not ſo: yet thus much I may tell him, that men may poſſibly ſeem to have Faith and piety, yet be without it: neither can he or <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> know what Principle a man acts from, in ſeeing his outſide, ſo we cannot tell him what Faith and piety is within others.</p>
+            <p n="9">9 He queries if Tythes oppoſing be not imagina<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y fraud, covetouſneſs, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> To tell him this, we muſt know mens hearts, which God only can diſcover: but if any act <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o, or do deny them on that account, I heartily wiſh <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey were well known, that the godly who cannot pay a forced Maintenance without ſinning againſt the Lord, and making a breach in his Royal Goſpel char<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er, and wounding their own conſciences, might not <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e cenſured becauſe ſome do diſſemble.</p>
+            <p n="10">10. He queries what danger may come on the Na<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion if Tyths ſhould be taken away; yet ends with a
+<pb n="44" facs="tcp:172142:24"/> ſcoff. How ſuch Tythe oppoſers, may be inrold Saints in the <hi>Roman</hi> Kalender.</p>
+            <p>
+               <hi>Anſw.</hi> To take away Tyths would be the like dan<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as it was to tread on Dagons threſhold:<note place="margin">1 <hi>Sam.</hi> 5.5.</note> or for K<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Henry</hi> the 8. to take away the Popes Supremacy, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Monaſtries, Abbies, <hi>&amp;c.</hi> from Popiſh uſes: bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> terrifie People with dangers and fears, is no t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thing, for thus the Spies acted when <hi>Iſreal</hi> ſhould into <hi>Canaan,</hi>
+               <note place="margin">
+                  <hi>Numb.</hi> 13.32.</note> which much diſmaid the People: <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſo now we have many thus hindering the glorious <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>berty of the Sons of God, that like <hi>Iſraels</hi> adverſar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> at rebuilding of the Material Temple, in formd t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> were a rebellious People.<note place="margin">
+                  <hi>Ezra.</hi> 4.4, 12, 13. <hi>Nehem.</hi> 2.17. <hi>Nehem</hi> 4.1, 7.</note> But God will have <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> work done, although <hi>Sanballat,</hi> and other Enim<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſcoff at it,</p>
+            <p>Thus have I declared, an anſwer according to t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Lords leading me forth in it: I muſt deliver ſom<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>what more, which God hath deſigned me to do, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> five and twentieth day of the 3d. month (cally <hi>May<g ref="char:punc">▪</g>
+               </hi> 1660.</p>
+            <p>
+               <note place="margin">
+                  <hi>Ier.</hi> 18.3.4.</note>O Powers of <hi>England,</hi> the fountain of Gods M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>cy is ſtill open unto us, and his work is upon the whe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wherein he makes men inſtrumental in turning <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> about, and hath tryed ſeveral parties in doing of i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> when <hi>Prebitery</hi> had groaned for Liberty under pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>lacy, he at laſt obtaind it, but then he ſought to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> up himſelf, and thought much to grant that Liber<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to his fellow Creatures, which he groaned for und<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> another; ſo he being laid by, God ſet <hi>Independe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> to work,<note place="margin">
+                  <hi>Hoſea</hi> 6.4.</note> who made a ſhew of righteouſnes like <hi>Eph<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>im,</hi> but as the dew, it ſoon waſted, and their day w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> paſt alſo; whereupon the Baptiſt party had their t<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> who proving ſelf ſeekers like the former, their d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſoon ended;<note place="margin">2 <hi>Sam.</hi> 15.4.</note> yet all theſe, <hi>&amp;c.</hi> before their day ca<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to work at the wheel, ſeemd to be wiſhing like <hi>A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ſolam,</hi> O that I were made Judge in the Land, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="45" facs="tcp:172142:24"/> note the proceedings: how theſe made ſhews like <hi>Iehu <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Iehonadab,</hi> but what was effected, of that pretend<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, woful experience can Teſtifie thereof,<note place="margin">2 <hi>King</hi> 10.15, 29. <hi>Cor.</hi> 3, 5.</note> 
+               <hi>Iehu</hi> de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rted not from <hi>Ieroboams</hi> Idolatry, nor did theſe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ave their ptide, and covetouſneſs which is Idola<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y,</p>
+            <p>As it is juſt with God to try men, ſo thereby he <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aves them without excuſe; likewiſe it is his mercy,<note place="margin">
+                  <hi>Mat.</hi> 22.2, &amp;c.</note> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen one proves unfaitfull, or refuſeth his ſpiritual <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oviſion, to call in others, all which he hath done; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d now is your day to be inſtruments in his hand, for <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ting forth his glory and doing his work, look there<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re to it, and remember what many of you have <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ought upon in times paſt to do, if ever you had ſuch <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>day; ſee now and conſider the things that belong unto <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>urs, and our peace, leſt our caſe become as <hi>Ie<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſalems.</hi> Many talk of ſetling religion, who under<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>and it not;<note place="margin">
+                  <hi>Luke</hi> 19.42.</note> but where or how can it be aſtabliſht <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ithout if it be not ſetled within the heart, and if it be <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ithin there is no man can mend it, therefore it is not <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tward Laws or inforcements to an externall form, at makes a Chriſtian: and concerning Tyths, if <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y man will voluntarily pay them ſtill let him do it, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a if he will give half he hath to his Miniſter, or <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ake his goods common, any of theſe men may do they will, ſo they do it freely; for the Saints look <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>on a free miniſtry, &amp; a free maintenance according <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the pure Goſpel practiſe, but what is otherwiſe is <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pure: nor can all outward inforcements, adde any <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing of inward purity, more then life can be detained <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen it is expiring forth of the body.</p>
+            <p>As the Goſpel manifeſtation of God is clearer, ſo <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ints in this come to a more glorious Light,<note place="margin">
+                  <hi>Mat.</hi> 5.16, 28. <hi>Iohn</hi> 4.23.</note> being <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>quired to walk in a more perfect obedience, not <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith a luſtfull eye, but a ſingle heart, no obſervation <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> places, but in ſpirit and Truth: to walk in love
+<pb n="46" facs="tcp:172142:25"/> uſing no filthineſs, jeſting, or fooliſh talking; wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in no lyers,<note place="margin">
+                  <hi>Eph.</hi> 2.4. <hi>Rev.</hi> 22.19. <hi>Mat.</hi> 7.12.</note> 
+               <hi>&amp;c.</hi> ſhall have part in the bleſſed inh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tance, therefore to be mindful of that Royall Law<g ref="char:punc">▪</g> doing what we would be done unto.</p>
+            <p>And this is the ſum of that meſſage God hath ſet upon, wherein may be obſerved, how <hi>W. P.</hi> ple<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> oppoſite to the Goſpel Letter and Practiſe: there<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I am to conclude. <hi>That there is no Goſpel Ple<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Tyths,</hi> nor any forced Maintenance for Miniſter<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Goſpel.</p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON</hi> Printed and are to be ſold by <hi>Rob<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Wilſon,</hi> at the ſign of the Black-Spread <hi>Eagle,</hi> and <hi>Wind-Mill,</hi> in <hi>Martins</hi> near <hi>Alderſgate.</hi> 1660.</p>
+            <pb facs="tcp:172142:25"/>
+            <pb facs="tcp:172142:26"/>
+         </div>
+      </back>
+   </text>
+</TEI>
